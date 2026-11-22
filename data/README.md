@@ -84,6 +84,4 @@ and cannot run without that output.
 
 The IPUMS-CPS microdata extract (basic monthly samples, January 2017 to June 2026, with the variables listed in the paper's data
 section), which IPUMS terms do not allow us to redistribute. It is the source of every CPS-based file above and of the
-individual-level regressions. It can be rebuilt from IPUMS-CPS; the cleaning code that turns it into the files in `cell_fd/` and
-`cell_fe/` is in the lab repository `folablab/aaicelo` (commit d3ac192, November 2, 2026), and the individual-level cleaning and
-estimation do-files are in `code/stata/individual_fe_source/`.
+individual-level regressions, whose cleaning and estimation do-files are in `code/stata/individual_fe_source/`.

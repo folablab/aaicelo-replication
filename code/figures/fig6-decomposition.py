@@ -9,7 +9,7 @@
 # One point per occupation: the two stacked windows' residuals are averaged with the weights; contributions are summed (exact).
 # Figure 5 (fig-decomposition-groups-vertical.png; fig6-decomposition-groups.png is the horizontal version) is the contribution column of the
 # table by major group, both samples.
-# Inputs: the cleaned first-difference files (data/regression_inputs/cell_fd/), as in code/tables/tab8-decomposition.py. Run from anywhere:
+# Inputs: the cleaned first-difference files (data/cell_fd/), as in code/tables/tab8-decomposition.py. Run from anywhere:
 #   python3 code/figures/fig6-decomposition.py
 import sys as _sys, pathlib as _pl; _sys.path.insert(0, str(_pl.Path(__file__).resolve().parents[1])); from paths import *   # repository-relative paths (code/paths.py)
 import re, numpy as np, pandas as pd, statsmodels.api as sm, warnings, matplotlib

@@ -2,7 +2,7 @@
 # For each sample (all workers, under 30, 30 to 49, 50 to 64) two figures, drawn exactly as Figure 1 (raw: change in the log count
 # against the stage-1 to stage-4 exposure change in points, fitted line weighted by base-period employment of the group) and as
 # Appendix Figure E.1 (residualized: deviations after the twelve composition controls and the period effect, slope = coefficient of Eq. (group)).
-# Inputs: the cleaned first-difference files (data/regression_inputs/cell_fd/), one per group. Outputs (output/figures/): fig-scatter-raw-<group>.png
+# Inputs: the cleaned first-difference files (data/cell_fd/), one per group. Outputs (output/figures/): fig-scatter-raw-<group>.png
 # and fig-scatter-resid-<group>.png, the four-panel figures fig1-raw-panels.png and fig6-resid-panels.png (Appendix Figure E.1), the two-panel
 # fig1-raw-intro.png (Figure 1), and the eight-panel sheet fig-scatter-all-groups.png; the plotted data go to output/estimates/. Run from anywhere: python3 code/figures/fig-scatter-groups.py
 import sys as _sys, pathlib as _pl; _sys.path.insert(0, str(_pl.Path(__file__).resolve().parents[1])); from paths import *   # repository-relative paths (code/paths.py)

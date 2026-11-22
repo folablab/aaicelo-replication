@@ -2,7 +2,7 @@
 # output/estimates/ (fd_main, fd_specification, fd_composition, fd_telework, fe_main, fe_specification, fe_telework,
 # individual_fe). Every number in these tables is read from those files; nothing is typed in. Run from anywhere:
 #   python3 code/tables/regression_tables.py
-# Writes to output/tables/ (exhibit numbers as in the submitted manuscript):
+# Writes to output/tables/ (exhibit numbers as in the paper):
 #   tab3-headline.tex            Table 3    three-year differences, headline and pre-AI placebo windows, all workers
 #   tab4-by-group.tex            Table 4    by age and by education, headline window
 #   tab5-fe.tex                  Table 5    occupation fixed effects, 2023Q1 to 2026Q2, all workers and pooled coefficient by group

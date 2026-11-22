@@ -1,9 +1,9 @@
 # Appendix Tables E.1 and E.2 (decomposition by major group, top occupations): where the decline in young workers comes from. Run from anywhere:
 #   python3 code/tables/tab8-decomposition.py      (writes output/tables/tab8-1-decomposition.tex and tab8-2-top-occupations.tex)
-# Inputs: the cleaned first-difference files (data/regression_inputs/cell_fd/fd_baseline_3m_occ2010_age_u30.dta and _ageedu_u30_no_ba.dta,
-# the exact inputs of the Table 4 regressions for the two groups), occ2010_q_age3.dta (data/pipeline/) for occupation titles only, and the
-# major-group code ranges printed in the lab's leave-one-out table (data/lab/paper_tables/). Reading the lab's files makes the coefficients
-# identical to Table 4 by construction.
+# Inputs: the cleaned first-difference files (data/cell_fd/fd_baseline_3m_occ2010_age_u30.dta and _ageedu_u30_no_ba.dta,
+# the exact inputs of the Table 4 regressions for the two groups), occ2010_q_age3.dta (data/pipeline/) for occupation titles only,, and the
+# major-group code ranges in data/crosswalks/occ2010_major_groups.csv. The regression inputs are those of Table 4, so the coefficients
+# are identical to Table 4 by construction.
 # The regression: the three-year difference in the log count of young workers, 2026Q1 vs 2023Q1 and 2026Q2 vs 2023Q2 stacked
 # with a period effect, the twelve full-occupation base-period composition shares, base-period young employment weights,
 # exposure standardized across the 451 scored occupations, standard errors clustered by occupation.
