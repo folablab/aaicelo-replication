@@ -1,0 +1,24 @@
+{
+  "model_key": "gemini-flash-lite",
+  "model_id": "google/gemini-3.1-flash-lite",
+  "batch": "robustness/batches/pb_full.jsonl",
+  "prompt": "b",
+  "mode": "production",
+  "requested": 19281,
+  "succeeded": 19281,
+  "failed": 0,
+  "previously_done": 0,
+  "prompt_tokens": 62477194,
+  "completion_tokens": 19273084,
+  "estimated_cost_usd": 44.5289,
+  "providers": {
+    "Google AI Studio": 16133,
+    "Google": 3148
+  },
+  "elapsed_seconds": 2145.4,
+  "concurrency": 24,
+  "json_mode": true,
+  "max_tokens": 10000,
+  "seed": 12345,
+  "temperature": 0
+}

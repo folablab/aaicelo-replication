@@ -1,0 +1,26 @@
+# One style for the paper's figures: serif type, no titles inside the plot (colors come from the figure scripts); captions and notes live in LaTeX.
+# Loaded by the figure scripts with plt.style.use(ROOT/"code/figures/restat.mplstyle").
+font.family: serif
+font.serif: Times New Roman, TeX Gyre Termes, STIXGeneral, DejaVu Serif
+mathtext.fontset: stix
+font.size: 9
+axes.edgecolor: black
+axes.linewidth: 0.6
+axes.spines.top: False
+axes.spines.right: False
+axes.labelsize: 9
+axes.titlesize: 9
+xtick.color: black
+ytick.color: black
+xtick.labelsize: 8
+ytick.labelsize: 8
+xtick.direction: out
+ytick.direction: out
+legend.frameon: False
+legend.fontsize: 8
+lines.linewidth: 1.0
+savefig.dpi: 300
+savefig.facecolor: white
+savefig.bbox: tight
+axes.labelcolor: black
+text.color: black

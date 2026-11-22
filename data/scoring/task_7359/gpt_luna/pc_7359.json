@@ -1,0 +1,161 @@
+{
+  "occupation": "Tax Preparers",
+  "onet_code": "13-2082.00",
+  "task_id": 7359,
+  "task_text": "Prepare or assist in preparing simple to complex tax returns for individuals or small businesses.",
+  "subtask_assessments": [
+    {
+      "subtask_id": 1,
+      "subtask": "Gather and review client financial documents, records, and prior tax returns to identify all relevant income, deductions, and credits.",
+      "pct_of_total_time": 20,
+      "human_has_advantage": {
+        "stage_1": true,
+        "stage_2": true,
+        "stage_3": false,
+        "stage_4": false
+      },
+      "advantage_types": {
+        "stage_1": [
+          "tacit_judgment_expertise"
+        ],
+        "stage_2": [
+          "tacit_judgment_expertise"
+        ],
+        "stage_3": [],
+        "stage_4": []
+      }
+    },
+    {
+      "subtask_id": 2,
+      "subtask": "Analyze and categorize financial information, calculate taxable income, determine applicable deductions and credits, and identify tax implications.",
+      "pct_of_total_time": 25,
+      "human_has_advantage": {
+        "stage_1": true,
+        "stage_2": true,
+        "stage_3": false,
+        "stage_4": false
+      },
+      "advantage_types": {
+        "stage_1": [
+          "tacit_judgment_expertise"
+        ],
+        "stage_2": [
+          "tacit_judgment_expertise"
+        ],
+        "stage_3": [],
+        "stage_4": []
+      }
+    },
+    {
+      "subtask_id": 3,
+      "subtask": "Enter financial data and tax information into tax preparation software or forms, ensuring accuracy and compliance with current tax codes.",
+      "pct_of_total_time": 20,
+      "human_has_advantage": {
+        "stage_1": false,
+        "stage_2": false,
+        "stage_3": false,
+        "stage_4": false
+      },
+      "advantage_types": {
+        "stage_1": [],
+        "stage_2": [],
+        "stage_3": [],
+        "stage_4": []
+      }
+    },
+    {
+      "subtask_id": 4,
+      "subtask": "Review completed tax return for mathematical accuracy, completeness, and compliance with tax regulations before finalizing.",
+      "pct_of_total_time": 15,
+      "human_has_advantage": {
+        "stage_1": true,
+        "stage_2": true,
+        "stage_3": true,
+        "stage_4": true
+      },
+      "advantage_types": {
+        "stage_1": [
+          "tacit_judgment_expertise"
+        ],
+        "stage_2": [
+          "tacit_judgment_expertise"
+        ],
+        "stage_3": [
+          "tacit_judgment_expertise"
+        ],
+        "stage_4": [
+          "institutional_authority"
+        ]
+      }
+    },
+    {
+      "subtask_id": 5,
+      "subtask": "Communicate with clients to clarify missing information, explain tax positions, and discuss filing options or tax-saving strategies.",
+      "pct_of_total_time": 12,
+      "human_has_advantage": {
+        "stage_1": true,
+        "stage_2": true,
+        "stage_3": true,
+        "stage_4": true
+      },
+      "advantage_types": {
+        "stage_1": [
+          "interpersonal_relational"
+        ],
+        "stage_2": [
+          "interpersonal_relational"
+        ],
+        "stage_3": [
+          "interpersonal_relational"
+        ],
+        "stage_4": [
+          "interpersonal_relational"
+        ]
+      }
+    },
+    {
+      "subtask_id": 6,
+      "subtask": "Make final determinations on tax filing positions, deduction eligibility, and return accuracy, then authorize the return for submission.",
+      "pct_of_total_time": 8,
+      "human_has_advantage": {
+        "stage_1": true,
+        "stage_2": true,
+        "stage_3": true,
+        "stage_4": true
+      },
+      "advantage_types": {
+        "stage_1": [
+          "institutional_authority",
+          "tacit_judgment_expertise"
+        ],
+        "stage_2": [
+          "institutional_authority",
+          "tacit_judgment_expertise"
+        ],
+        "stage_3": [
+          "institutional_authority"
+        ],
+        "stage_4": [
+          "institutional_authority"
+        ]
+      }
+    }
+  ],
+  "stage_1": {
+    "human_advantage_share": 80.0,
+    "dominant_advantage_type": "tacit_judgment_expertise"
+  },
+  "stage_2": {
+    "human_advantage_share": 80.0,
+    "dominant_advantage_type": "tacit_judgment_expertise"
+  },
+  "stage_3": {
+    "human_advantage_share": 35.0,
+    "dominant_advantage_type": "tacit_judgment_expertise"
+  },
+  "stage_4": {
+    "human_advantage_share": 35.0,
+    "dominant_advantage_type": "institutional_authority"
+  },
+  "residual_human_advantage": "At Stage 4, humans retain an advantage primarily in client trust and communication, together with the institutional responsibility to review, determine, and authorize tax filing positions. Routine data entry and much of the analytical preparation can be performed effectively by autonomous AI agents, but human accountability and acceptance of the return remain important."
+}

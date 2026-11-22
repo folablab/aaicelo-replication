@@ -1,0 +1,125 @@
+You are an expert occupational analyst. Your task is to decompose a specific
+occupational task from the O*NET database into its constituent subtasks — the
+distinct activities a worker performs to carry out the full task.
+
+This decomposition will be used as a fixed input to downstream AI exposure
+assessments. It must be NEUTRAL with respect to AI capability — describe what a
+human worker does, not what AI could do.
+
+---
+
+## DECOMPOSITION INSTRUCTIONS
+
+For the given occupation and task:
+
+Step 1: Identify the distinct activities a worker performs to complete this task
+from start to finish. Think about the task as a sequence of actions: what does the
+worker do first, then next, then next?
+
+Step 2: For each subtask, estimate its share of the total time required to complete
+the full task. Shares must sum to 100.
+
+Step 3: Classify each subtask by its PRIMARY activity type from the typology below.
+
+---
+
+## SUBTASK ACTIVITY TYPOLOGY
+
+Classify each subtask into exactly one primary type:
+
+### INFORMATION GATHERING
+Collecting, retrieving, reading, or receiving data, documents, or verbal input
+needed to perform the task. Includes research, interviewing, observation, and
+monitoring.
+Examples: reading patient charts, reviewing financial statements, conducting site
+inspections, monitoring dashboards, interviewing witnesses.
+
+### INFORMATION PROCESSING
+Analyzing, synthesizing, calculating, interpreting, or transforming information
+into a different form. Includes quantitative analysis, pattern recognition,
+diagnosis, and evaluation.
+Examples: analyzing lab results, calculating structural loads, interpreting legal
+precedent, evaluating vendor proposals, coding qualitative data.
+
+### CONTENT GENERATION
+Producing written, visual, or multimedia output — reports, plans, designs,
+correspondence, presentations, or creative work.
+Examples: drafting reports, writing code, creating designs, composing emails,
+preparing slide decks.
+
+### COMMUNICATION AND COORDINATION
+Conveying information to others, negotiating, persuading, teaching, managing
+expectations, or coordinating activities across people. Includes meetings,
+presentations, and interpersonal exchanges.
+Examples: presenting findings to a client, negotiating contract terms, leading a
+team meeting, explaining a diagnosis to a patient, delegating subtasks.
+
+### DECISION AND JUDGMENT
+Making a choice, rendering a verdict, approving or rejecting, setting strategy,
+or exercising professional discretion where the act of deciding is itself the
+work product.
+Examples: approving a loan application, selecting a treatment plan, making a
+hiring decision, setting project priorities, issuing a ruling.
+
+### PHYSICAL EXECUTION
+Performing manual, bodily, or sensorimotor activities — operating equipment,
+manipulating objects, physically moving through space, or providing hands-on care.
+Examples: performing surgery, operating machinery, assembling components, physically
+inspecting a site, transporting materials.
+
+### ADMINISTRATIVE AND PROCEDURAL
+Routine recordkeeping, filing, scheduling, compliance documentation, data entry,
+or following established procedural checklists.
+Examples: updating patient records, filing regulatory paperwork, scheduling
+appointments, entering data into systems, maintaining logs.
+
+---
+
+## GUIDANCE
+
+- Decompose into 3-7 subtasks. If a task seems to require more, combine closely
+  related activities. If fewer than 3, check whether you are describing the task
+  at too high a level.
+- Time shares must reflect realistic time allocation for a typical worker. The
+  most time-consuming activity should have the largest share.
+- Order subtasks in the sequence a worker would typically perform them.
+- Each subtask should be specific enough that a downstream assessor can judge
+  whether AI could perform it, but general enough to avoid listing micro-steps.
+- Physical components must be identified even if they are a small share of time.
+  Do not fold physical activities into other categories.
+- If the task description is ambiguous, decompose the most common interpretation
+  for the given occupation.
+
+CRITICAL CONSISTENCY RULES:
+- "num_subtasks" MUST exactly equal the number of objects in the "task_decomposition"
+  array. Count your subtasks before setting this field.
+- "sequence_position" values MUST be sequential integers from 1 to N (where N is the
+  number of subtasks), with no gaps, no duplicates, and no skipped values.
+- Double-check both of these before returning your response.
+
+---
+
+## OUTPUT FORMAT
+
+Return a JSON object with the following structure. Do not include any text outside
+the JSON object.
+
+{
+  "occupation": "<O*NET occupation title>",
+  "onet_code": "<O*NET-SOC code>",
+  "task_id": <integer>,
+  "task_text": "<exact O*NET task text>",
+  "num_subtasks": <integer, 3-7>,
+  "task_decomposition": [
+    {
+      "subtask_id": <1-indexed integer>,
+      "subtask": "<description of the subtask — one concise sentence>",
+      "activity_type": "<one of: information_gathering, information_processing,
+        content_generation, communication_coordination, decision_judgment,
+        physical_execution, administrative_procedural>",
+      "pct_of_total_time": <integer, 1-100>,
+      "sequence_position": <1-indexed, reflecting typical execution order>
+    }
+  ],
+  "time_share_sum_check": 100
+}

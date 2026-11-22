@@ -1,0 +1,25 @@
+{
+  "model_key": "deepseek-v4-flash",
+  "model_id": "deepseek/deepseek-v4-flash",
+  "batch": "robustness/batches/pa_full.jsonl",
+  "prompt": "a",
+  "mode": "production",
+  "requested": 19278,
+  "succeeded": 19278,
+  "failed": 0,
+  "previously_done": 3,
+  "prompt_tokens": 55471440,
+  "completion_tokens": 71279835,
+  "estimated_cost_usd": 15.2182,
+  "providers": {
+    "GMICloud": 19084,
+    "DeepInfra": 189,
+    "CoreWeave": 8
+  },
+  "elapsed_seconds": 20025.8,
+  "concurrency": 32,
+  "json_mode": true,
+  "max_tokens": 10000,
+  "seed": 12345,
+  "temperature": 0
+}

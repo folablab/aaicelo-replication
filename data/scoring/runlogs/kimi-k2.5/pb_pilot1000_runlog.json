@@ -1,0 +1,25 @@
+{
+  "model_key": "kimi-k2.5",
+  "model_id": "moonshotai/kimi-k2.5",
+  "batch": "robustness/batches/pb_pilot1000.jsonl",
+  "prompt": "b",
+  "mode": "production",
+  "requested": 1000,
+  "succeeded": 1000,
+  "failed": 0,
+  "previously_done": 0,
+  "prompt_tokens": 3110401,
+  "completion_tokens": 6919393,
+  "estimated_cost_usd": 18.0566,
+  "providers": {
+    "AtlasCloud": 377,
+    "DeepInfra": 359,
+    "Novita": 264
+  },
+  "elapsed_seconds": 8802.7,
+  "concurrency": 16,
+  "json_mode": true,
+  "max_tokens": 10000,
+  "seed": 12345,
+  "temperature": 0
+}

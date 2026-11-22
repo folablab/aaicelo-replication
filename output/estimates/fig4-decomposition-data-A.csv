@@ -1,0 +1,433 @@
+occ2010,x,y,w,contrib,group,title,col,hl,panel
+4720,0.4888287191683205,1.3980633848393256,2420631.624766666,0.04853332094312436,Sales and related,cashiers,#4a3aa7,True,A. Workers under 30
+4760,0.07595107913691115,1.3121558883424447,2060783.6189666644,-0.005631667835555448,Sales and related,retail salespersons,#4a3aa7,True,A. Workers under 30
+4110,-0.44599442272000284,5.651057578376126,1971164.0590666672,-0.1605060233982859,Food preparation and serving related,waiters and waitresses,#c9459c,True,A. Workers under 30
+5240,1.6466420645684567,-20.563793370331492,1892612.1368999993,-2.045722618489867,Office and administrative support,customer service representatives,#2a78d6,True,A. Workers under 30
+9620,-0.3667931195760443,11.569930146435013,1433087.4842000003,-0.1947364882627846,Transportation and material moving,"laborers and freight, stock, and material movers, hand",#9a9994,False,A. Workers under 30
+3255,-1.465669272160888,15.565701970699248,1394764.6664333332,-1.0077916739452168,Healthcare practitioners and technical,registered nurses,#eb6834,True,A. Workers under 30
+430,0.36919455933811673,0.71785794026942,1394519.639933333,0.026695010412319614,Management,"miscellaneous managers, including funeral service managers and postmasters and mail superintendents",#9a9994,False,A. Workers under 30
+4020,-0.2062420798859153,4.008753166241794,1344669.9408333334,-0.048685364692105604,Food preparation and serving related,cooks,#c9459c,True,A. Workers under 30
+5620,0.22120010217865752,19.961438970654008,1326007.2931333329,0.20155047867435655,Office and administrative support,stock clerks and order fillers,#2a78d6,True,A. Workers under 30
+4700,0.13400272240820038,-9.757469048030167,1246798.0167666655,-0.02583940452503515,Sales and related,first-line supervisors of retail sales workers,#4a3aa7,True,A. Workers under 30
+6260,-0.2614255810388829,2.5262327914762,1173427.6130999986,-0.030364764630589135,Construction and extraction,construction laborers,#9a9994,False,A. Workers under 30
+9130,-0.05912616999201986,10.2853005666805,1163597.7723333328,-0.02173355829679028,Transportation and material moving,driver/sales workers and truck drivers,#9a9994,False,A. Workers under 30
+4050,-0.3062686107429817,17.978156218277928,1132026.5945000004,-0.1982514319098967,Food preparation and serving related,"combined food preparation and serving workers, including fast food",#c9459c,True,A. Workers under 30
+2310,-0.7848669758975279,7.705998066998467,1083556.2060666657,-0.21391345858358446,Educational instruction and library,elementary and middle school teachers,#9a9994,False,A. Workers under 30
+1020,0.3172672689526752,7.161454396063318,1050730.4279000002,0.06868410809985684,Computer and mathematical,"software developers, applications and systems software",#1baf7a,True,A. Workers under 30
+3600,-0.4011379938131272,15.965748850954082,1046813.7926666669,-0.2301889864938779,Healthcare support,"nursing, psychiatric, and home health aides",#c9459c,True,A. Workers under 30
+2540,-0.6492399161658275,-0.36434561900927687,1025203.1012666662,0.012930405578076842,Educational instruction and library,teacher assistants,#9a9994,False,A. Workers under 30
+4220,-0.6680082383063175,-15.7884866133471,945457.3241333333,0.32052605409379287,Building and grounds cleaning and maintenance,janitors and building cleaners,#c9459c,True,A. Workers under 30
+5400,1.0232595865151528,-12.802707264904022,909967.9797999999,-0.38596930762620085,Office and administrative support,receptionists and information clerks,#2a78d6,True,A. Workers under 30
+4600,-0.5236564329878757,8.383056495664821,773956.0527333334,-0.09641007856789464,Personal care and service,childcare workers,#c9459c,True,A. Workers under 30
+8965,0.1862740258915721,2.094796438425405,693071.2514999997,-0.0027773025658426164,Production,"miscellaneous production workers, including semiconductor processors",#9a9994,False,A. Workers under 30
+4030,-0.5570686711657197,30.670370541378045,682868.9129333331,-0.37344328891773615,Food preparation and serving related,food preparation workers,#c9459c,True,A. Workers under 30
+4250,-0.46255582809682344,-5.513288634489957,678631.1632000001,0.04912252603731668,Building and grounds cleaning and maintenance,grounds maintenance workers,#c9459c,True,A. Workers under 30
+5700,1.128168539218041,-10.799860470315915,653756.3515666665,-0.25019260702300056,Office and administrative support,secretaries and administrative assistants,#2a78d6,True,A. Workers under 30
+800,0.1306712865043528,19.016129788459345,652933.1700999998,0.04409074018622723,Business and financial operations,accountants and auditors,#9a9994,False,A. Workers under 30
+5860,1.1009524982161116,14.890314395987438,651239.4546333335,0.3110083615770322,Office and administrative support,"office clerks, general",#2a78d6,True,A. Workers under 30
+4610,-0.8061786265105158,-0.08106477962918525,623484.5781333335,0.01459219752675911,Personal care and service,personal care aides,#c9459c,True,A. Workers under 30
+7750,0.10360361579532969,-9.324821418565987,605377.5911666666,-0.022046554091342197,Production,miscellaneous assemblers and fabricators,#9a9994,False,A. Workers under 30
+3420,-0.4142614997788638,15.805017704484843,581870.0849666665,-0.11283011723183031,Healthcare practitioners and technical,health practitioner support technologists and  technicians,#eb6834,True,A. Workers under 30
+2340,-0.6395742143520697,19.831697480357654,573222.8315999997,-0.24099207827559727,Educational instruction and library,other teachers and instructors,#9a9994,False,A. Workers under 30
+5510,-0.39460478252945336,14.010828571202747,567411.2203666666,-0.10889758025625965,Office and administrative support,couriers and messengers,#2a78d6,True,A. Workers under 30
+310,0.473847994226834,15.44533213364628,555890.1327333334,0.10146999908833368,Management,food service managers,#9a9994,False,A. Workers under 30
+6230,0.2665147161799566,0.4934837961462586,536653.0340333334,0.0029506748462178366,Construction and extraction,carpenters,#9a9994,False,A. Workers under 30
+3930,0.4594592531182391,-6.341399861621902,502754.4578333333,-0.04652636260963822,Protective service,security guards and gaming surveillance officers,#c9459c,True,A. Workers under 30
+6355,-0.09714946783165691,9.19695659700361,497434.6079999997,-0.026018194386224318,Construction and extraction,electricians,#9a9994,False,A. Workers under 30
+7200,-0.21872102428609005,6.456740980952102,480227.9173,-0.02149555310314885,"Installation, maintenance, and repair",automotive service technicians and mechanics,#9a9994,False,A. Workers under 30
+9640,0.274016129441729,-8.716805260236445,474848.8054,-0.036881701540633846,Transportation and material moving,"packers and packagers, hand",#9a9994,False,A. Workers under 30
+2300,-0.5682127328647801,-16.813540960255065,434934.9091666667,0.12865418852625055,Educational instruction and library,preschool and kindergarten teachers,#9a9994,False,A. Workers under 30
+2630,0.5734792007866143,10.202208518413784,421699.12226666673,0.06320867623885057,"Arts, design, entertainment, sports, and media",designers,#9a9994,False,A. Workers under 30
+3645,-0.3266239963535077,15.318542962810278,417852.5428666667,-0.07490521810206509,Healthcare support,medical assistants,#c9459c,True,A. Workers under 30
+4010,0.9556502618520557,8.66861922756645,403905.1476666668,0.07313128333561035,Food preparation and serving related,first-line supervisors of food preparation and serving workers,#c9459c,True,A. Workers under 30
+4150,0.3395376605540663,9.212847184391988,399753.98286666645,0.04856931281176199,Food preparation and serving related,"hosts and hostesses, restaurant, lounge, and coffee shop",#c9459c,True,A. Workers under 30
+4230,-0.5529726709246585,22.990124058249506,387016.4471333333,-0.16517338802917644,Building and grounds cleaning and maintenance,maids and housekeeping cleaners,#c9459c,True,A. Workers under 30
+20,-0.31589139797128246,-18.81382097463055,378685.8482333333,0.07604248560660744,Management,general and operations managers,#9a9994,False,A. Workers under 30
+2000,0.005029249537087521,11.229791404905837,374141.00990000006,-0.021002154687974277,Community and social service,counselors,#9a9994,False,A. Workers under 30
+630,0.2763269359606091,-14.35481719947392,367606.4903666667,-0.06675365978590099,Business and financial operations,human resources workers,#9a9994,False,A. Workers under 30
+50,-0.19825439948414228,17.956112501249244,361400.6154333334,-0.04849963206242549,Management,marketing and sales managers,#9a9994,False,A. Workers under 30
+1107,0.5581380132438233,18.321476481986867,361043.1845666667,0.11620698139708574,Computer and mathematical,"computer occupations, all other",#1baf7a,True,A. Workers under 30
+9600,-0.6048165314339505,13.724372289167286,351990.26399999997,-0.08781874979983564,Transportation and material moving,industrial truck and tractor operators,#9a9994,False,A. Workers under 30
+6050,-0.08940117392184525,15.104959478903877,343631.7351333333,-0.014358273552449206,"Farming, fishing, and forestry","miscellaneous agricultural workers, including animal breeders",#9a9994,False,A. Workers under 30
+710,0.27659488751821926,-12.907420044970543,341741.75410000014,-0.04148167275136618,Business and financial operations,management analysts,#9a9994,False,A. Workers under 30
+4350,-0.21048451267659815,16.498431937544648,337780.8768999999,0.00025314800394331304,Personal care and service,nonfarm animal caretakers,#c9459c,True,A. Workers under 30
+9610,-0.2633193929050169,-0.8740335377651888,331367.8615,-0.0012621606803196808,Transportation and material moving,cleaners of vehicles and equipment,#9a9994,False,A. Workers under 30
+5120,0.7473121681049282,-21.20483506723856,330086.96910000005,-0.1652952109748681,Office and administrative support,"bookkeeping, accounting, and auditing clerks",#2a78d6,True,A. Workers under 30
+8740,0.2194707541998781,10.247881301777223,329846.06609999994,0.03944433331974287,Production,"inspectors, testers, sorters, samplers, and weighers",#9a9994,False,A. Workers under 30
+5610,1.0426449895140844,-48.230355439762995,327987.50033333333,-0.5321306258599561,Office and administrative support,"shipping, receiving, and traffic clerks",#2a78d6,True,A. Workers under 30
+4850,-0.08904787376498363,21.85932423863046,325235.9687333332,-0.027733185085240246,Sales and related,"sales representatives, wholesale and manufacturing",#4a3aa7,True,A. Workers under 30
+4510,-0.9035076967724021,2.0224883629494186,317233.2109666668,-0.015277880737224362,Personal care and service,"hairdressers, hairstylists, and cosmetologists",#c9459c,True,A. Workers under 30
+7315,-0.3488255338118581,8.913003439538757,314171.43029999995,-0.03099417031737674,"Installation, maintenance, and repair","heating, air conditioning, and refrigeration mechanics and installers",#9a9994,False,A. Workers under 30
+4040,-0.5950886775259285,-16.344584521875912,310192.03706666664,0.10739130000839499,Food preparation and serving related,bartenders,#c9459c,True,A. Workers under 30
+8140,-0.22956312650277583,20.796989866238896,308428.1476666667,-0.04290587142630911,Production,"welding, soldering, and brazing workers",#9a9994,False,A. Workers under 30
+735,0.9267497401270118,-4.696130271464248,301889.9604666667,-0.07998613984478921,Business and financial operations,market research analysts and marketing specialists,#9a9994,False,A. Workers under 30
+6440,-0.007455025103545206,34.58590945088838,300789.0381333333,-0.0031648157963071913,Construction and extraction,"pipelayers, plumbers, pipefitters, and steamfitters",#9a9994,False,A. Workers under 30
+220,0.6498541216044572,-11.948422386368431,300298.4191666667,-0.07147482208816078,Management,construction managers,#9a9994,False,A. Workers under 30
+1530,-0.041805040054196635,-4.281004674665211,287251.4350333334,0.005622938962066819,Architecture and engineering,"miscellaneous engineers, including nuclear engineers",#9a9994,False,A. Workers under 30
+4710,-0.1857843559953125,-27.030488839142237,286324.2233333333,0.04925163732694562,Sales and related,first-line supervisors of non-retail sales workers,#4a3aa7,True,A. Workers under 30
+3640,-0.41129193790662133,-9.647924840317298,283306.2228666667,0.048675431953172775,Healthcare support,dental assistants,#c9459c,True,A. Workers under 30
+4840,0.455057644616853,17.864440873810217,282843.93576666666,0.07043373808820572,Sales and related,"sales representatives, services, all other",#4a3aa7,True,A. Workers under 30
+1360,-0.26485866492433235,8.912377934884065,280354.65046666656,-0.01868692666913437,Architecture and engineering,civil engineers,#9a9994,False,A. Workers under 30
+4620,-0.207023090485047,-4.106610497863387,278194.39756666665,0.01020248938003492,Personal care and service,recreation and fitness workers,#c9459c,True,A. Workers under 30
+2320,-0.4148525509904197,3.1741126332806195,270184.9072000001,-0.009050473826896228,Educational instruction and library,secondary school teachers,#9a9994,False,A. Workers under 30
+120,0.08583446943092908,6.170293384750333,269138.96473333327,-0.0023857762566735262,Management,financial managers,#9a9994,False,A. Workers under 30
+5940,1.9225475288052156,2.745575569349771,263965.23809999996,0.07421014322457262,Office and administrative support,"miscellaneous office and administrative support workers, including desktop publishers",#2a78d6,True,A. Workers under 30
+2010,-0.48084975834716154,-2.6278089952438393,256884.6864,0.01031277329151141,Community and social service,social workers,#9a9994,False,A. Workers under 30
+4130,-0.9766441132039075,-13.942390580394823,248323.49910000002,0.09466861847854574,Food preparation and serving related,"miscellaneous food preparation and serving related workers, including dining room and cafeteria attendants and bartender helpers",#c9459c,True,A. Workers under 30
+4920,-0.21037003603708965,-17.914474532052534,244777.70986666664,0.03439110636838324,Sales and related,real estate brokers and sales agents,#4a3aa7,True,A. Workers under 30
+1240,0.826366428373256,-19.126696150391602,239031.0711666667,-0.1192219410159133,Computer and mathematical,"miscellaneous mathematical science occupations, including mathematicians and statisticians",#1baf7a,True,A. Workers under 30
+8220,0.2667949418820345,-24.2921658679653,237864.01996666667,-0.05106100570124962,Production,"miscellaneous metal workers and plastic workers, including multiple machine tool setters",#9a9994,False,A. Workers under 30
+1460,0.09090924268322809,6.503897392936136,237731.06076666666,-0.005902382628374617,Architecture and engineering,mechanical engineers,#9a9994,False,A. Workers under 30
+6420,-0.026833230354867933,-45.61783751740873,234691.8559666666,0.02386538114513055,Construction and extraction,painters and paperhangers,#9a9994,False,A. Workers under 30
+2720,-0.23258407748088974,32.60326567263123,234447.3131333333,-0.047427270876955085,"Arts, design, entertainment, sports, and media","athletes, coaches, umpires, and related workers",#9a9994,False,A. Workers under 30
+1965,-0.02292271627440922,5.055287580574121,234348.7401,0.003989871827781591,"Life, physical, and social science","miscellaneous life, physical, and social science technicians, including social science research assistants",#9a9994,False,A. Workers under 30
+1050,0.47858209388937756,-6.579895617748999,233618.2874333333,-0.025438140978447613,Computer and mathematical,computer support specialists,#1baf7a,True,A. Workers under 30
+7340,-0.12188160592937257,4.8479111988834305,230143.01073333333,-0.004763577474523817,"Installation, maintenance, and repair","maintenance and repair workers, general",#9a9994,False,A. Workers under 30
+840,0.5952859074759017,20.333097664700336,228712.8735333333,0.08461983721743027,Business and financial operations,financial analysts,#9a9994,False,A. Workers under 30
+5000,0.3422664255638603,11.779934356918057,225571.9270333333,0.0314283819387372,Office and administrative support,first-line supervisors of office and administrative support workers,#2a78d6,True,A. Workers under 30
+3400,-1.6376764544929632,-31.62971669195142,216321.17726666664,0.3547371465049949,Healthcare practitioners and technical,emergency medical technicians and paramedics,#eb6834,True,A. Workers under 30
+3850,-0.9324321039669268,39.2043627428159,216199.4526333333,-0.2524914303296176,Protective service,police officers,#c9459c,True,A. Workers under 30
+4810,-0.015907396282151924,-3.2404489425541696,212825.5402333333,0.016393759091315723,Sales and related,insurance sales agents,#4a3aa7,True,A. Workers under 30
+3500,-0.8576332987746238,-7.952063631426247,207199.4353999999,0.01891969817942414,Healthcare practitioners and technical,licensed practical and licensed vocational nurses,#eb6834,True,A. Workers under 30
+410,-0.015176249490524154,-38.095440592124085,206204.82546666672,0.01029676847193651,Management,"property, real estate, and community association managers",#9a9994,False,A. Workers under 30
+4430,-0.6170967335286444,24.099918935299964,199361.8829333334,-0.09394775998800305,Personal care and service,miscellaneous entertainment attendants and related workers,#c9459c,True,A. Workers under 30
+1760,0.36392849274463174,-50.85677475850596,191802.7488666667,-0.1120665506348682,"Life, physical, and social science","physical scientists, all other",#9a9994,False,A. Workers under 30
+2145,1.0494744437695573,37.23054662059967,189977.42039999994,0.2130299579567854,Legal,paralegals and legal assistants,#9a9994,False,A. Workers under 30
+4140,-0.5898329526157624,-3.8559528497970854,189470.8878,0.014267410662635503,Food preparation and serving related,dishwashers,#c9459c,True,A. Workers under 30
+5160,0.40938022262850415,18.87591353599354,186049.0796333333,0.0013204637070953207,Office and administrative support,tellers,#2a78d6,True,A. Workers under 30
+4000,0.06495674339190637,-4.9018444285302145,185039.63273333333,-0.005699255053885393,Food preparation and serving related,chefs and head cooks,#c9459c,True,A. Workers under 30
+6320,-0.21596760435210652,-3.3032700768079155,178611.6597,0.0041420547459912515,Construction and extraction,"construction equipment operators except paving, surfacing, and tamping equipment operators",#9a9994,False,A. Workers under 30
+7800,0.3113034834496736,17.89570567162202,175425.60726666666,0.031039228694542426,Production,bakers,#9a9994,False,A. Workers under 30
+7700,0.24625871083206213,32.23178751060132,174488.86296666664,0.04388450854296874,Production,first-line supervisors of production and operating workers,#9a9994,False,A. Workers under 30
+4520,-2.3259668871157504,11.750450661964571,173681.92556666664,-0.15121363545928707,Personal care and service,miscellaneous personal appearance workers,#c9459c,True,A. Workers under 30
+7210,-0.5906544883959223,8.647369080725891,169748.96779999995,-0.024951422784724616,"Installation, maintenance, and repair",bus and truck mechanics and diesel engine specialists,#9a9994,False,A. Workers under 30
+3300,-0.9369251785892078,21.608611807898342,169079.95173333335,-0.11499315652372631,Healthcare practitioners and technical,clinical laboratory technologists and technicians,#eb6834,True,A. Workers under 30
+3320,-1.0485991695133583,14.511048286647148,168896.30096666663,-0.0835350510456483,Healthcare practitioners and technical,diagnostic related technologists and technicians,#eb6834,True,A. Workers under 30
+230,0.2337635250230805,-9.636125196261558,167142.74959999995,-0.011915268704435232,Management,education administrators,#9a9994,False,A. Workers under 30
+8800,0.5338054848879003,-76.94999866481446,165837.4694,-0.23176224511023738,Production,packaging and filling machine operators and tenders,#9a9994,False,A. Workers under 30
+7330,0.10676013408817907,1.888174277502334,163749.35636666667,0.00045518415736639744,"Installation, maintenance, and repair",industrial and refractory machinery mechanics,#9a9994,False,A. Workers under 30
+5110,0.7199792620050073,-32.1244343495959,159268.15513333332,-0.1416935031740042,Office and administrative support,billing and posting clerks,#2a78d6,True,A. Workers under 30
+6200,1.2351623546059025,-18.253666892776486,158997.41490000003,-0.11323883556011743,Construction and extraction,first-line supervisors of construction trades and extraction workers,#9a9994,False,A. Workers under 30
+1430,-0.19664039526945004,-5.922596977618863,157258.84066666666,0.0033997845940478004,Architecture and engineering,"industrial engineers, including health and safety",#9a9994,False,A. Workers under 30
+4120,-0.36779627538513376,7.354971094782309,157148.67533333338,-0.037680933805679336,Food preparation and serving related,"food servers, nonrestaurant",#c9459c,True,A. Workers under 30
+1550,0.3694493759440103,3.411327509046489,156934.79390000005,-0.01695700287352897,Architecture and engineering,"engineering technicians, except drafters",#9a9994,False,A. Workers under 30
+1006,0.2535376031748171,33.47922294434161,155576.953,0.03674444881275109,Computer and mathematical,computer systems analysts,#1baf7a,True,A. Workers under 30
+3955,-0.1085273222667765,21.696423577237557,153039.32030000002,-0.03831540288015455,Protective service,"lifeguards and other recreational, and all other protective service workers",#c9459c,True,A. Workers under 30
+110,-0.3288654560825565,-100.98509221947855,152561.3341666667,0.15813265509858898,Management,computer and information systems managers,#9a9994,False,A. Workers under 30
+205,0.24371727989790168,26.16974290731246,150821.81953333327,0.016125168520158398,Management,"farmers, ranchers, and other agricultural managers",#9a9994,False,A. Workers under 30
+1010,1.1173284607426897,-15.115750160993652,147997.40589999998,-0.07822212392063095,Computer and mathematical,computer programmers,#1baf7a,True,A. Workers under 30
+2100,0.5842410578188361,40.135413117091275,146837.08590000003,0.10522376488509706,Legal,"lawyers, and judges, magistrates, and other judicial workers",#9a9994,False,A. Workers under 30
+3800,-0.365182468972707,-0.5216820773106989,145983.3063333333,0.006454360315882733,Protective service,"bailiffs, correctional officers, and jailers",#c9459c,True,A. Workers under 30
+5520,1.3775484829528197,11.330704569468814,142176.6445666667,0.06638930783069662,Office and administrative support,dispatchers,#2a78d6,True,A. Workers under 30
+2600,0.6506938847209169,-22.781801612850273,140710.20220000003,-0.06804424481052258,"Arts, design, entertainment, sports, and media",artists and related workers,#9a9994,False,A. Workers under 30
+2200,0.16474087224116235,-4.664842519003023,138090.62906666668,-0.0033572284557290984,Educational instruction and library,postsecondary teachers,#9a9994,False,A. Workers under 30
+7810,-0.5012099236529232,17.170317516968623,137152.84753333335,-0.06246377311341743,Production,"butchers and other meat, poultry, and fish processing workers",#9a9994,False,A. Workers under 30
+910,-0.2511053342915688,-68.68981622427307,136651.32789999997,0.07370261503792669,Business and financial operations,credit counselors and loan officers,#9a9994,False,A. Workers under 30
+740,0.7218051570815942,85.03784248066817,131610.67223333335,0.25766162294261313,Business and financial operations,"business operations specialists, all other",#9a9994,False,A. Workers under 30
+9000,0.5265110435835428,-46.619822098201375,130417.92143333332,-0.11985552079653049,Transportation and material moving,supervisors of transportation and material moving workers,#9a9994,False,A. Workers under 30
+3740,-1.659445719432686,32.165444703036094,129083.56746666666,-0.21896677014873797,Protective service,firefighters,#c9459c,True,A. Workers under 30
+350,0.35464065289473173,28.15102946756197,128026.52916666667,0.0466572082951842,Management,medical and health services managers,#9a9994,False,A. Workers under 30
+2016,-0.050201397725527036,-32.082252730289675,127538.82716666668,0.007685254880685775,Community and social service,social and human service assistants,#9a9994,False,A. Workers under 30
+420,0.27518766275907247,14.77892107577671,126308.35533333333,0.019959377637104193,Management,social and community service managers,#9a9994,False,A. Workers under 30
+3245,-0.15985993842227852,63.220856791621856,124544.10616666666,-0.047132199686201866,Healthcare practitioners and technical,"other therapists, including exercise physiologists",#eb6834,True,A. Workers under 30
+4820,-0.5055501978995937,-58.22039617853827,118687.17193333332,0.11096598846334152,Sales and related,"securities, commodities, and financial services sales agents",#4a3aa7,True,A. Workers under 30
+9140,-0.756594457746915,17.247984171922138,116962.84236666665,-0.05008373905738281,Transportation and material moving,taxi drivers and chauffeurs,#9a9994,False,A. Workers under 30
+1007,0.9324902988175423,11.439168080536785,114298.55716666667,0.02580583145074158,Computer and mathematical,information security analysts,#1baf7a,True,A. Workers under 30
+2330,-0.3650452217177041,-8.648621947733835,111707.35133333334,0.018182079332636103,Educational instruction and library,special education teachers,#9a9994,False,A. Workers under 30
+3060,-0.5754259907600009,-3.987700304737402,110692.68423333333,0.007229868768756054,Healthcare practitioners and technical,physicians and surgeons,#eb6834,True,A. Workers under 30
+1030,1.089780792735813,-28.100982107821125,110349.08316666668,-0.10036767634760546,Computer and mathematical,web developers,#1baf7a,True,A. Workers under 30
+5840,1.0699667205324055,-1.2691956195795777,108189.26670000001,-0.031250255088166666,Office and administrative support,insurance claims and policy processing clerks,#2a78d6,True,A. Workers under 30
+7630,0.4098308529580326,-38.59287500109446,104618.56850000001,-0.04647081736159838,"Installation, maintenance, and repair","miscellaneous installation, maintenance, and repair workers, including wind turbine service technicians",#9a9994,False,A. Workers under 30
+3050,-0.5475564130509755,-52.14847642809639,104155.85636666666,0.09144338048375139,Healthcare practitioners and technical,pharmacists,#eb6834,True,A. Workers under 30
+7410,-0.7941584214401285,-23.24785168142004,103900.47750000004,0.06058512202993059,"Installation, maintenance, and repair",electrical power-line installers and repairers,#9a9994,False,A. Workers under 30
+6515,-0.460766918414432,72.73609512779579,100894.07369999998,-0.11004390213071605,Construction and extraction,roofers,#9a9994,False,A. Workers under 30
+850,-0.40738561098271714,95.08883692793003,100118.04283333334,-0.13844186247447687,Business and financial operations,personal financial advisors,#9a9994,False,A. Workers under 30
+8030,0.19109108595619964,42.59550219931516,97099.18903333336,0.02408706393800165,Production,machinists,#9a9994,False,A. Workers under 30
+520,0.2802900106283569,-106.45379439911349,96652.44090000002,-0.11070435769564721,Business and financial operations,"wholesale and retail buyers, except farm products",#9a9994,False,A. Workers under 30
+5550,-0.536959547799978,25.65627685069548,96473.44146666667,-0.04855475918374634,Office and administrative support,postal service mail carriers,#2a78d6,True,A. Workers under 30
+2910,-0.3419040353463084,18.55524837336454,95854.07459999999,-0.029450518329214366,"Arts, design, entertainment, sports, and media",photographers,#9a9994,False,A. Workers under 30
+725,0.26953647457572033,33.72182975220366,94430.11936666668,0.0230666300541977,Business and financial operations,"meeting, convention, and event planners",#9a9994,False,A. Workers under 30
+3655,-0.2618015969309916,-9.872377915155361,93849.89723333335,0.010981826413726555,Healthcare support,"healthcare support workers, all other, including medical equipment preparers",#c9459c,True,A. Workers under 30
+700,0.9270654964191486,-17.846200878565618,92862.23156666668,-0.047719495157043934,Business and financial operations,logisticians,#9a9994,False,A. Workers under 30
+1410,-0.24023818344026202,16.7727586999836,90945.38176666666,-0.010968136796266832,Architecture and engineering,electrical and electronics engineers,#9a9994,False,A. Workers under 30
+2920,0.11214636327535375,-35.3459796282992,90415.05473333335,0.01440760646158961,"Arts, design, entertainment, sports, and media","television, video, and motion picture camera operators and editors",#9a9994,False,A. Workers under 30
+5350,0.44421177332006645,-98.00520164373103,90216.88606666666,-0.12319727577042777,Office and administrative support,correspondence clerks and order clerks,#2a78d6,True,A. Workers under 30
+540,0.6349967226254619,12.729593944612516,90003.61966666667,0.024874189205422097,Business and financial operations,"claims adjusters, appraisers, examiners, and investigators",#9a9994,False,A. Workers under 30
+4340,-0.6081566843341885,-115.6715518644442,89399.41653333334,0.23085877431444424,Personal care and service,animal trainers,#c9459c,True,A. Workers under 30
+5410,1.1788013587785546,20.45461737712194,88989.8503333333,0.06990387317457865,Office and administrative support,reservation and transportation ticket agents and travel clerks,#2a78d6,True,A. Workers under 30
+3648,-0.7228596945826775,29.61329860449106,88810.50399999997,-0.062459770198432976,Healthcare support,veterinary assistants and laboratory animal caretakers,#c9459c,True,A. Workers under 30
+3649,-0.26884352722134053,-22.484816695583664,87097.47339999999,0.0025805226929159547,Healthcare support,phlebotomists,#c9459c,True,A. Workers under 30
+2850,1.1577457258558517,-22.33482634171642,86869.19429999999,-0.07503741581735379,"Arts, design, entertainment, sports, and media",writers and authors,#9a9994,False,A. Workers under 30
+7260,-0.5317510293558388,18.430846961110625,86719.21053333333,-0.023220530726247593,"Installation, maintenance, and repair","miscellaneous vehicle and mobile equipment mechanics, installers, and repairers",#9a9994,False,A. Workers under 30
+160,0.6253380815354838,1.6472528849836685,85301.25473333332,0.0016131077291116607,Management,"transportation, storage, and distribution managers",#9a9994,False,A. Workers under 30
+7220,-0.2611410387793104,41.956241571687315,85282.53766666669,-0.02957559008961535,"Installation, maintenance, and repair",heavy vehicle and mobile equipment service technicians and mechanics,#9a9994,False,A. Workers under 30
+3540,0.06212971905856587,24.659237060196304,83242.83940000001,0.003884164354664457,Healthcare practitioners and technical,other healthcare practitioners and technical occupations,#eb6834,True,A. Workers under 30
+5300,0.5801946082258551,-4.205704809310206,81359.6085,-0.01053460609766949,Office and administrative support,"hotel, motel, and resort desk clerks",#2a78d6,True,A. Workers under 30
+4210,0.47602569340612694,-8.430262382028026,80888.06246666666,-0.010826382849528571,Building and grounds cleaning and maintenance,"first-line supervisors of landscaping, lawn service, and groundskeeping workers",#c9459c,True,A. Workers under 30
+5810,0.7748483831152857,21.524664794466382,80707.07616666667,0.04248446745119741,Office and administrative support,data entry keyers,#2a78d6,True,A. Workers under 30
+3310,-1.7900874388238013,-12.023590416276978,80634.60513333333,0.05849351449733048,Healthcare practitioners and technical,dental hygienists,#eb6834,True,A. Workers under 30
+3620,-1.6131280900475515,19.231731365507684,79816.44600000001,-0.06623459864808834,Healthcare support,physical therapist assistants and aides,#c9459c,True,A. Workers under 30
+9360,-0.2803747484316412,-7.7674604736128785,78656.98246666665,0.005655983029761611,Transportation and material moving,automotive and watercraft service attendants,#9a9994,False,A. Workers under 30
+2160,0.8080572683285406,-53.88425192339338,78285.58106666667,-0.12029871671373261,Legal,miscellaneous legal support workers,#9a9994,False,A. Workers under 30
+8810,0.5643638561070972,-0.9673686403655437,77197.98566666667,-0.006334548666283045,Production,painting workers,#9a9994,False,A. Workers under 30
+5310,0.8549920682657659,0.38891325188415266,76686.25086666668,-0.007687005653978347,Office and administrative support,"interviewers, except eligibility and loan",#2a78d6,True,A. Workers under 30
+530,-0.1422313664444268,31.622244130773478,76443.29916666665,-0.0055788826171056976,Business and financial operations,"purchasing agents, except wholesale, retail, and farm products",#9a9994,False,A. Workers under 30
+2750,-0.8140968021817205,-46.13353564529359,76119.68066666665,0.09010778500993558,"Arts, design, entertainment, sports, and media","musicians, singers, and related workers",#9a9994,False,A. Workers under 30
+1540,1.2329206274260145,-46.683984334316,74852.7251,-0.19500307110387266,Architecture and engineering,drafters,#9a9994,False,A. Workers under 30
+3160,-0.7402513459923309,68.66891785660835,74627.93873333334,-0.1262871648147494,Healthcare practitioners and technical,physical therapists,#eb6834,True,A. Workers under 30
+1560,1.9533549677814492,-10.890463626179006,74436.43896666667,-0.048087394758818375,Architecture and engineering,surveying and mapping technicians,#9a9994,False,A. Workers under 30
+1320,0.5360601672097146,10.665836713273311,73768.72456666667,0.013402966339718096,Architecture and engineering,aerospace engineers,#9a9994,False,A. Workers under 30
+5600,0.23244172222428922,-6.641354195844427,73409.13936666667,0.015195430630292175,Office and administrative support,"production, planning, and expediting clerks",#2a78d6,True,A. Workers under 30
+4540,-0.3628288189402794,-72.65970034007422,72923.45933333336,0.03757743346045507,Personal care and service,tour and travel guides,#c9459c,True,A. Workers under 30
+4500,-0.13650416790326333,-18.92224339838583,71572.35976666666,0.006145380974371006,Personal care and service,barbers,#c9459c,True,A. Workers under 30
+3230,-0.11518288873188673,44.82287329566711,71098.79223333331,-0.0162586120587176,Healthcare practitioners and technical,speech-language pathologists,#eb6834,True,A. Workers under 30
+10,-0.1785914680570976,13.514922951460173,70848.48509999999,-0.0068116660552986616,Management,chief executives and legislators,#9a9994,False,A. Workers under 30
+7020,0.016237032875863713,-1.0395780164514947,69436.76886666667,0.009163434457690075,"Installation, maintenance, and repair",radio and telecommunications equipment installers and repairers,#9a9994,False,A. Workers under 30
+5330,0.5135269126853005,-279.47827384508327,69141.65853333332,-0.3772073326662754,Office and administrative support,loan interviewers and clerks,#2a78d6,True,A. Workers under 30
+2825,0.7735736527896556,-48.25031019364744,69125.4881,-0.10730356701630205,"Arts, design, entertainment, sports, and media",public relations specialists,#9a9994,False,A. Workers under 30
+5165,-0.8320993015979034,15.657246021453048,68449.55799999999,-0.03716279675585414,Office and administrative support,"financial clerks, all other",#2a78d6,True,A. Workers under 30
+2550,1.2903482936496955,-17.519431422186468,65875.5485,-0.06464802506382109,Educational instruction and library,"other education, training, and library workers",#9a9994,False,A. Workers under 30
+7420,-0.9087997259461729,-10.424147102915017,65728.34049999999,0.01930617200155782,"Installation, maintenance, and repair",telecommunications line installers and repairers,#9a9994,False,A. Workers under 30
+565,0.27599406246095354,-6.099135810010912,64203.79063333334,-0.0028045939367016643,Business and financial operations,compliance officers,#9a9994,False,A. Workers under 30
+940,1.3298604736961905,-34.6190567535606,64072.807499999995,-0.12520608999218522,Business and financial operations,tax preparers,#9a9994,False,A. Workers under 30
+8950,-0.5754631297940945,-1.5005325473266151,63875.34946666667,0.018963882435744477,Production,helpers--production workers,#9a9994,False,A. Workers under 30
+2710,-0.25082838197147267,50.78340163876183,63824.8592,-0.031757771988421994,"Arts, design, entertainment, sports, and media",producers and directors,#9a9994,False,A. Workers under 30
+4800,0.40351520457245804,-29.82466135795926,63239.03116666665,-0.04619873952629762,Sales and related,advertising sales agents,#4a3aa7,True,A. Workers under 30
+6765,0.29861889392600177,-18.562035681898653,62299.793066666665,-0.01225612549519883,Construction and extraction,"miscellaneous construction workers, including solar photovoltaic installers, septic tank servicers and sewer pipe cleaners",#9a9994,False,A. Workers under 30
+8300,0.10118294387948094,-46.76084919855195,62050.9155,0.0033714083891059413,Production,laundry and dry-cleaning workers,#9a9994,False,A. Workers under 30
+2040,-1.4792688097512867,-20.516100627732484,61934.276433333325,0.05671152444936283,Community and social service,clergy,#9a9994,False,A. Workers under 30
+3110,-0.45112067226335156,15.670780611083549,61011.41796666666,-0.01791865665806437,Healthcare practitioners and technical,physician assistants,#eb6834,True,A. Workers under 30
+4750,1.2605174566667947,47.10529191238873,60032.972733333336,0.11868817822607268,Sales and related,parts salespersons,#4a3aa7,True,A. Workers under 30
+1105,-0.04405451715428448,-19.780635479349087,59834.128433333346,0.00020464949918250935,Computer and mathematical,network and computer systems administrators,#1baf7a,True,A. Workers under 30
+860,1.2447599270462837,-74.99912083788793,58441.93636666666,-0.1837546168684932,Business and financial operations,insurance underwriters,#9a9994,False,A. Workers under 30
+4740,0.8900927897741675,11.062468112727966,58300.693033333315,0.017913829992338808,Sales and related,counter and rental clerks,#4a3aa7,True,A. Workers under 30
+600,0.844145475899945,19.44763548489079,56929.48229999999,0.024080912036388787,Business and financial operations,cost estimators,#9a9994,False,A. Workers under 30
+1350,0.312544602017459,4.375587478188994,56722.03883333334,0.002152200845920744,Architecture and engineering,chemical engineers,#9a9994,False,A. Workers under 30
+6600,-0.9107634965030796,-20.584520047984395,54436.939866666675,0.031358133801616624,Construction and extraction,"helpers, construction trades",#9a9994,False,A. Workers under 30
+3646,0.405406470006316,-39.35379994238267,54161.21926666667,-0.02833672411102323,Healthcare support,medical transcriptionists,#c9459c,True,A. Workers under 30
+6220,-0.052145589809632194,-67.27669532965967,54138.33666666667,0.0012895600283084861,Construction and extraction,"brickmasons, blockmasons, stonemasons, and reinforcing iron and rebar workers",#9a9994,False,A. Workers under 30
+1300,0.3179220714236759,45.96838048922794,53674.94603333334,0.025785183123666587,Architecture and engineering,"architects, except naval",#9a9994,False,A. Workers under 30
+6520,0.0702692907612958,16.997117438764622,52774.24293333334,-0.0010779403333074662,Construction and extraction,sheet metal workers,#9a9994,False,A. Workers under 30
+7720,-0.19464349168723918,29.785021786689512,52538.4293,-0.008876446056216182,Production,"electrical, electronics, and electromechanical assemblers",#9a9994,False,A. Workers under 30
+3150,-0.863714548734631,49.88428185060749,50999.408533333335,-0.0696943524616885,Healthcare practitioners and technical,occupational therapists,#eb6834,True,A. Workers under 30
+6330,-0.46648169180051174,-15.257882609312844,50860.75326666666,0.013331122592110776,Construction and extraction,"drywall installers, ceiling tile installers, and tapers",#9a9994,False,A. Workers under 30
+7150,-0.4683422332117595,46.37348923248544,50584.33720000001,-0.041656968237056446,"Installation, maintenance, and repair",automotive body and related repairers,#9a9994,False,A. Workers under 30
+2900,-0.41656809333397116,-9.75429639157139,49967.0985,0.01680416305796782,"Arts, design, entertainment, sports, and media","broadcast and sound engineering technicians and radio operators, and media and communication equipment workers, all other",#9a9994,False,A. Workers under 30
+7010,-0.10019871215178432,1.4066054156196124,49793.463766666675,-0.006125979511781883,"Installation, maintenance, and repair","computer, automated teller, and office machine repairers",#9a9994,False,A. Workers under 30
+4320,-0.3843763603027499,-146.2063834756351,49165.9099,0.0629635271527618,Personal care and service,first-line supervisors of personal service workers,#c9459c,True,A. Workers under 30
+6240,-0.6722975754310915,-116.8515007222299,48800.611000000004,0.1079763813134719,Construction and extraction,"carpet, floor, and tile installers and finishers",#9a9994,False,A. Workers under 30
+3535,-0.13175511227985304,-2.5984824611315713,48676.294200000004,0.0005053050488618451,Healthcare practitioners and technical,miscellaneous health technologists and technicians,#eb6834,True,A. Workers under 30
+5540,-0.0032333026162189127,-126.02201943332281,47538.5843,-0.01784985630856515,Office and administrative support,postal service clerks,#2a78d6,True,A. Workers under 30
+1220,0.6894497097203702,-24.149940580687712,47521.8376,-0.03851674158765587,Computer and mathematical,operations research analysts,#1baf7a,True,A. Workers under 30
+2860,1.5156938357614738,-74.2502315796042,47480.51683333334,-0.1650318782385094,"Arts, design, entertainment, sports, and media",miscellaneous media and communication workers,#9a9994,False,A. Workers under 30
+7000,0.12892635467200228,-54.21416500019507,47150.61646666666,-0.01783877310802545,"Installation, maintenance, and repair","first-line supervisors of mechanics, installers, and repairers",#9a9994,False,A. Workers under 30
+5260,0.525311803005097,0.4424873402778613,46776.85846666667,-0.006782109910670162,Office and administrative support,file clerks,#2a78d6,True,A. Workers under 30
+7900,0.5154765420292174,-45.71349822396558,45731.09846666666,-0.038224053980895754,Production,computer control programmers and operators,#9a9994,False,A. Workers under 30
+136,0.02471078317206339,-38.037305349074856,45082.92133333333,-0.0022842332581522852,Management,human resources managers,#9a9994,False,A. Workers under 30
+9030,-2.4107778046149946,60.452153605031604,44931.15470000001,-0.21920844967382735,Transportation and material moving,aircraft pilots and flight engineers,#9a9994,False,A. Workers under 30
+1200,0.5556580555141578,-70.85200794668954,44882.72443333334,-0.05857340975858528,Computer and mathematical,actuaries,#1baf7a,True,A. Workers under 30
+1005,0.5849849786219283,-76.54745789838033,44837.06979999999,-0.03875521546854019,Computer and mathematical,computer and information research scientists,#1baf7a,True,A. Workers under 30
+9720,0.7009785283348291,-9.427468463979189,44293.72206666666,-0.009555587738306528,Transportation and material moving,refuse and recyclable material collectors,#9a9994,False,A. Workers under 30
+7840,0.42024563552618904,12.783411006772468,44177.74216666668,-0.013517699668631679,Production,food batchmakers,#9a9994,False,A. Workers under 30
+8760,-0.5997789561437352,-60.885351487557124,44173.9727,0.05132946553699138,Production,"medical, dental, and ophthalmic laboratory technicians",#9a9994,False,A. Workers under 30
+1820,0.19770001336341064,0.8551877078680732,43886.13133333334,0.00031551678359771824,"Life, physical, and social science",psychologists,#9a9994,False,A. Workers under 30
+7140,-1.1761604682302365,30.801443605163506,43825.49220000001,-0.046880993056975385,"Installation, maintenance, and repair",aircraft mechanics and service technicians,#9a9994,False,A. Workers under 30
+5630,-0.10868195759646655,30.295484234747516,43790.79883333333,-0.005570000122698383,Office and administrative support,"weighers, measurers, checkers, and samplers, recordkeeping",#2a78d6,True,A. Workers under 30
+2760,0.7248283140819797,-64.08745051916974,43784.73163333333,-0.06371437328269927,"Arts, design, entertainment, sports, and media","entertainers and performers, sports and related workers, all other",#9a9994,False,A. Workers under 30
+9120,-0.7888479307043034,33.31164710901266,43038.32083333333,-0.036460706226891404,Transportation and material moving,bus drivers,#9a9994,False,A. Workers under 30
+650,1.1029870661735255,49.70505752059035,41869.47846666667,0.059176352322038946,Business and financial operations,training and development specialists,#9a9994,False,A. Workers under 30
+4640,0.36676395312459753,6.5435626997342045,41126.573333333334,0.003898491623435708,Personal care and service,residential advisors,#c9459c,True,A. Workers under 30
+5360,1.1662487840819211,8.072120336090585,40772.04966666667,0.018847709179385396,Office and administrative support,"human resources assistants, except payroll and timekeeping",#2a78d6,True,A. Workers under 30
+4200,0.4346145070333987,59.81701401990039,39506.46826666667,0.02939189742508,Building and grounds cleaning and maintenance,first-line supervisors of housekeeping and janitorial workers,#c9459c,True,A. Workers under 30
+4240,0.08443774096721915,-69.71086004726726,39338.85776666667,-0.0038661222481766724,Building and grounds cleaning and maintenance,pest control workers,#c9459c,True,A. Workers under 30
+726,0.29642704706275746,31.264158635754345,39283.635766666666,0.007628690735833778,Business and financial operations,fundraisers,#9a9994,False,A. Workers under 30
+8320,-0.023218878821604012,-107.19869657460642,39084.63503333333,0.007550749247819237,Production,sewing machine operators,#9a9994,False,A. Workers under 30
+2830,1.013590628452088,-364.58419016650635,37963.882600000004,-0.46918935409974327,"Arts, design, entertainment, sports, and media",editors,#9a9994,False,A. Workers under 30
+1920,0.3032610431454971,-13.60523713175608,37742.662033333334,-0.007300061610573596,"Life, physical, and social science",chemical technicians,#9a9994,False,A. Workers under 30
+6400,0.5171739724331209,-4.076949467576759,37572.68726666667,-0.02136026259159519,Construction and extraction,insulation workers,#9a9994,False,A. Workers under 30
+5420,0.1197424567082287,-9.853353683566102,37264.80936666667,0.004334898038982271,Office and administrative support,"information and record clerks, all other",#2a78d6,True,A. Workers under 30
+5140,0.004427382829114503,5.981346926304056,37076.751866666666,0.0005510351074733374,Office and administrative support,payroll and timekeeping clerks,#2a78d6,True,A. Workers under 30
+7950,0.24809084736803153,66.23358717518815,36326.08176666667,0.018879283425145384,Production,"machine tool cutting setters, operators, and tenders, metal and plastic",#9a9994,False,A. Workers under 30
+8620,-0.6773972110798607,-96.18758893754705,35752.73980000001,0.08009406445690019,Production,water and wastewater treatment plant and system operators,#9a9994,False,A. Workers under 30
+1740,0.4600113734436393,40.21954834343805,35449.38746666667,0.022647295413101586,"Life, physical, and social science",environmental scientists and geoscientists,#9a9994,False,A. Workers under 30
+4530,0.9966032626876117,-45.906051749750176,35268.78583333333,-0.048565436957755614,Personal care and service,"baggage porters, bellhops, and concierges",#c9459c,True,A. Workers under 30
+1720,-0.9378843927789954,26.520032419902574,35250.22863333333,-0.028715690763796965,"Life, physical, and social science",chemists and materials scientists,#9a9994,False,A. Workers under 30
+8540,0.40851617062794215,-117.3202633269523,35117.9364,-0.04875682587245135,Production,"woodworking machine setters, operators, and tenders, except sawing",#9a9994,False,A. Workers under 30
+830,-0.2132083988291964,-2.378584283675748,35079.567866666664,0.006384157532165332,Business and financial operations,credit analysts,#9a9994,False,A. Workers under 30
+9050,-2.0318658621632615,-13.861115095668014,35061.913933333344,0.006478889602965318,Transportation and material moving,flight attendants,#9a9994,False,A. Workers under 30
+5320,-0.9298729242938931,40.81371439152987,34980.95683333334,-0.040928454835289736,Office and administrative support,"library assistants, clerical",#2a78d6,True,A. Workers under 30
+1610,0.1347830694159176,58.86599919989908,34976.25056666666,0.004864855814138932,"Life, physical, and social science",biological scientists,#9a9994,False,A. Workers under 30
+8650,0.11909542338221743,-35.74292019000701,34600.659433333334,-0.022850710101518488,Production,"crushing, grinding, polishing, mixing, and blending workers",#9a9994,False,A. Workers under 30
+9750,-0.08787764202475294,44.85284647734119,34156.3556,-0.009385221694807154,Transportation and material moving,"miscellaneous material moving workers, including mine shuttle car operators, and tank car, truck, and ship loaders",#9a9994,False,A. Workers under 30
+3510,0.42926290232888836,-44.3067048817867,33469.45596666666,-0.012160929937801854,Healthcare practitioners and technical,medical records and health information technicians,#eb6834,True,A. Workers under 30
+3258,0.11252858459359306,-307.24900344833424,33399.1497,-0.012201167161952083,Healthcare practitioners and technical,nurse practitioners and nurse midwives,#eb6834,True,A. Workers under 30
+140,-0.05966661700531389,72.31643945039023,33330.1794,-0.014088663397209296,Management,industrial production managers,#9a9994,False,A. Workers under 30
+6940,-0.3894252989905999,20.299879028071633,32903.74603333333,-0.008282550143358842,Construction and extraction,"miscellaneous extraction workers, including roof bolters and helpers",#9a9994,False,A. Workers under 30
+1640,-0.8932469355651615,-28.52383123179202,32454.1702,0.0263381964699737,"Life, physical, and social science",conservation scientists and foresters,#9a9994,False,A. Workers under 30
+950,1.0702699466750953,-34.41591923755161,32444.51153333333,-0.03306220554998644,Business and financial operations,"financial specialists, all other",#9a9994,False,A. Workers under 30
+1650,0.08829244450142801,-92.05290537446889,31960.898333333338,-0.007853928248338811,"Life, physical, and social science","medical scientists, and life scientists, all other",#9a9994,False,A. Workers under 30
+6840,0.20746212872144323,-4.907902238838284,31886.17683333334,0.0002658537129831821,Construction and extraction,mining machine operators,#9a9994,False,A. Workers under 30
+3820,-0.9000450128137111,-0.2240168241531394,31764.086899999995,0.00457338825990471,Protective service,detectives and criminal investigators,#c9459c,True,A. Workers under 30
+2025,0.2624036967579392,36.45019931440939,31157.037633333333,0.00233738916224179,Community and social service,"miscellaneous community and social service specialists, including health educators and community health workers",#9a9994,False,A. Workers under 30
+8610,-1.2126967900060497,7.619457676659958,31122.19586666667,-0.00890385717149246,Production,stationary engineers and boiler operators,#9a9994,False,A. Workers under 30
+1450,0.4948257035947749,-16.18372240916373,30586.045433333333,-0.010566271771844302,Architecture and engineering,materials engineers,#9a9994,False,A. Workers under 30
+3630,-1.4709592295258098,-12.106875120259197,29902.4842,0.01750440197354541,Healthcare support,massage therapists,#c9459c,True,A. Workers under 30
+4400,-1.089961868156621,-21.38158305041293,29751.5731,0.026022471945463505,Personal care and service,gaming services workers,#c9459c,True,A. Workers under 30
+9420,0.1509074256605234,69.58608532104358,29678.85746666667,0.010468251494722448,Transportation and material moving,"miscellaneous transportation workers, including bridge and lock tenders and traffic technicians",#9a9994,False,A. Workers under 30
+8255,0.10316071475019453,32.59254587572231,29433.989999999998,-0.011737038475440248,Production,printing press operators,#9a9994,False,A. Workers under 30
+500,0.059491810809448965,-9.85486046304717,29273.422833333334,-0.0019789669853672895,Business and financial operations,"agents and business managers of artists, performers, and athletes",#9a9994,False,A. Workers under 30
+150,0.020237444785894745,82.74808364784944,29007.369066666666,0.0041884677454502705,Management,purchasing managers,#9a9994,False,A. Workers under 30
+7510,-0.36291933298229884,-51.08440202430411,29000.491033333332,0.010997298334296551,"Installation, maintenance, and repair","coin, vending, and amusement machine servicers and repairers",#9a9994,False,A. Workers under 30
+1060,0.2696404368252967,14.608508875441249,28718.404933333335,0.01347274921853957,Computer and mathematical,database administrators,#1baf7a,True,A. Workers under 30
+9350,-0.11286793490558049,43.87728651458225,28549.9543,-0.010012823856147183,Transportation and material moving,parking lot attendants,#9a9994,False,A. Workers under 30
+2800,0.3390167416764359,-44.688273017567695,28483.608933333333,-0.020219571298507266,"Arts, design, entertainment, sports, and media",announcers,#9a9994,False,A. Workers under 30
+1910,-0.8395414210051655,-24.437239381512462,28118.85223333333,0.026089432450680593,"Life, physical, and social science",biological technicians,#9a9994,False,A. Workers under 30
+5560,-1.0328444211411876,-217.41396730229934,27955.113966666668,0.24644205433183317,Office and administrative support,"postal service mail sorters, processors, and processing machine operators",#2a78d6,True,A. Workers under 30
+3220,-1.4086453047625445,-43.731645818265044,27266.519833333332,0.05318302206929519,Healthcare practitioners and technical,respiratory therapists,#eb6834,True,A. Workers under 30
+6730,-0.8309197213829721,-135.3568033882819,27194.116433333336,0.11400291138689246,Construction and extraction,highway maintenance workers,#9a9994,False,A. Workers under 30
+6800,0.24143325941362032,-198.89398627403057,26999.915666666668,-0.041383851549020766,Construction and extraction,"derrick, rotary drill, and service unit operators, and roustabouts, oil, gas, and mining",#9a9994,False,A. Workers under 30
+6710,-0.6128909824606587,42.59910756652198,26904.926199999998,-0.02160265513790982,Construction and extraction,fence erectors,#9a9994,False,A. Workers under 30
+4940,1.759134135927261,-58.1474242760628,26887.0988,-0.09162489737748744,Sales and related,telemarketers,#4a3aa7,True,A. Workers under 30
+9630,-0.7674273224320515,-47.54675005502742,26757.2471,0.03367133908841499,Transportation and material moving,machine feeders and offbearers,#9a9994,False,A. Workers under 30
+60,0.5623670844622525,-45.23086767904809,26593.46666666667,-0.021993736203531546,Management,public relations and fundraising managers,#9a9994,False,A. Workers under 30
+360,0.5069737409789506,-37.113722023377505,26243.09726666667,-0.010268442652223292,Management,natural sciences managers,#9a9994,False,A. Workers under 30
+3030,0.6661650319813691,33.70752586830622,26154.6304,0.018522068904587664,Healthcare practitioners and technical,dietitians and nutritionists,#eb6834,True,A. Workers under 30
+7130,0.1329976231914323,-82.68090221442127,25394.40456666667,-0.008064384852434343,"Installation, maintenance, and repair",security and fire alarm systems installers,#9a9994,False,A. Workers under 30
+8830,-1.2594606966981445,-148.19418661272738,25197.513233333335,0.14630496103819474,Production,photographic process workers and processing machine operators,#9a9994,False,A. Workers under 30
+8710,-0.32515496728401705,12.931934753345251,25144.771,-0.004058636172033183,Production,cutting workers,#9a9994,False,A. Workers under 30
+2430,0.5597495614028419,47.059706775727555,24836.443133333338,0.0202361617508078,Educational instruction and library,librarians,#9a9994,False,A. Workers under 30
+6005,0.30217859016527066,-135.38845762281176,24645.7069,-0.020464929023892003,"Farming, fishing, and forestry","first-line supervisors of farming, fishing, and forestry workers",#9a9994,False,A. Workers under 30
+6660,-0.319511224456472,-49.538172460768386,24639.871233333335,0.012534085222420405,Construction and extraction,construction and building inspectors,#9a9994,False,A. Workers under 30
+3647,-0.607327209458018,-57.99472738151959,24537.93346666667,0.03585314307383944,Healthcare support,pharmacy aides,#c9459c,True,A. Workers under 30
+6250,-0.8743983801573834,3.13517967362892,24353.1153,-0.002005247141345385,Construction and extraction,"cement masons, concrete finishers, and terrazzo workers",#9a9994,False,A. Workers under 30
+340,0.09447843581763354,9.463147486388253,24165.724266666668,-0.01049830666229094,Management,lodging managers,#9a9994,False,A. Workers under 30
+3910,-0.2726100916640865,56.384555047653144,24052.18113333333,-0.011874870279297366,Protective service,private detectives and investigators,#c9459c,True,A. Workers under 30
+6700,-0.11101549722922607,-51.65375238923789,24042.266699999996,0.010797032672996868,Construction and extraction,elevator installers and repairers,#9a9994,False,A. Workers under 30
+5100,0.40619019758638,59.58346902968397,23931.483500000002,0.020727726721745783,Office and administrative support,bill and account collectors,#2a78d6,True,A. Workers under 30
+4950,-0.07515081519153625,151.99487791281297,23906.816833333334,-0.005885616206265187,Sales and related,"door-to-door sales workers, news and street vendors, and related workers",#4a3aa7,True,A. Workers under 30
+1900,0.5276418586219626,-39.534329928487566,23744.8185,-0.013233997209802464,"Life, physical, and social science",agricultural and food science technicians,#9a9994,False,A. Workers under 30
+2050,0.058979173588408255,-59.947917535936874,23706.861933333334,-0.006554938247472476,Community and social service,"directors, religious activities and education",#9a9994,False,A. Workers under 30
+1860,1.1307692731156713,20.702970427788383,22311.32963333333,0.01338721997834287,"Life, physical, and social science","miscellaneous social scientists, including survey researchers and sociologists",#9a9994,False,A. Workers under 30
+6740,-0.2915667478302572,-135.99621930034417,21829.863299999997,0.02609656183047619,Construction and extraction,rail-track laying and maintenance equipment operators,#9a9994,False,A. Workers under 30
+5850,-0.0796063527259455,-7.588476909759196,21589.8851,0.013280892446565887,Office and administrative support,"mail clerks and mail machine operators, except postal service",#2a78d6,True,A. Workers under 30
+6530,-0.1702732962273189,-23.198887844891814,21368.840733333334,0.01138389379656436,Construction and extraction,structural iron and steel workers,#9a9994,False,A. Workers under 30
+4420,-0.4132564263507421,62.566906057683454,20982.790833333333,-0.018952663003133977,Personal care and service,"ushers, lobby attendants, and ticket takers",#c9459c,True,A. Workers under 30
+5220,1.417265808408182,-45.02313910666221,20900.02603333333,-0.0679736443185177,Office and administrative support,"court, municipal, and license clerks",#2a78d6,True,A. Workers under 30
+2700,-0.828306141231623,14.27240104344234,20420.8759,-0.009036496885249249,"Arts, design, entertainment, sports, and media",actors,#9a9994,False,A. Workers under 30
+6120,-1.74163310361475,-20.72724365458648,20210.418400000002,0.03645175298503853,"Farming, fishing, and forestry",forest and conservation workers,#9a9994,False,A. Workers under 30
+5900,0.6246795948343162,-167.63019225119913,20046.9842,-0.102211375653057,Office and administrative support,"office machine operators, except computer",#2a78d6,True,A. Workers under 30
+8640,0.46925565207887904,-75.21249957162226,19073.622399999997,-0.022520810790750814,Production,"chemical processing machine setters, operators, and tenders",#9a9994,False,A. Workers under 30
+8920,-0.8804915821303952,-86.95379481915495,17686.869766666667,0.02860298140071748,Production,"molders, shapers, and casters, except metal and plastic",#9a9994,False,A. Workers under 30
+8500,0.14106227175450012,-5.661357357143317,17388.425066666667,-0.001548210332704746,Production,cabinetmakers and bench carpenters,#9a9994,False,A. Workers under 30
+7920,-0.001725457209424109,-134.63572727332135,17320.591833333332,-0.00654277978845315,Production,"extruding and drawing machine setters, operators, and tenders, metal and plastic",#9a9994,False,A. Workers under 30
+4900,1.1137670094828995,89.04852682633499,17263.4238,0.05474727124158782,Sales and related,"models, demonstrators, and product promoters",#4a3aa7,True,A. Workers under 30
+3730,-0.048231075289181885,-49.93667420649736,17231.924166666664,-0.004283534739878071,Protective service,"first-line supervisors of protective service workers, all other",#c9459c,True,A. Workers under 30
+3520,-0.6545640886571014,-22.51935499582694,17098.650033333335,0.02599530612509552,Healthcare practitioners and technical,"opticians, dispensing",#eb6834,True,A. Workers under 30
+2105,0.7668310565399077,-27.153975450611224,17085.800300000003,-0.0015260814666127834,Legal,judicial law clerks,#9a9994,False,A. Workers under 30
+7240,0.2583423980433824,32.22574577827814,16889.136466666663,0.004075095128930278,"Installation, maintenance, and repair",small engine mechanics,#9a9994,False,A. Workers under 30
+1340,0.97728769059557,35.76079760379006,16886.875733333334,0.007024981102052162,Architecture and engineering,biomedical and agricultural engineers,#9a9994,False,A. Workers under 30
+2400,0.2194192986304211,-12.738746303385666,16565.011133333333,-0.011852926161507057,Educational instruction and library,"archivists, curators, and museum technicians",#9a9994,False,A. Workers under 30
+8350,-1.986878341914862,-63.55235074587774,16473.480233333335,0.06822458079706499,Production,"tailors, dressmakers, and sewers",#9a9994,False,A. Workers under 30
+300,-0.41976988989563657,-186.09604593803775,16239.836933333332,0.040293299945435276,Management,architectural and engineering managers,#9a9994,False,A. Workers under 30
+40,0.39695434296310944,-13.332743085014991,16000.2605,0.0005325678336302238,Management,advertising and promotions managers,#9a9994,False,A. Workers under 30
+6360,0.07145822206312055,-156.2622713134806,15885.394233333333,-0.005920231352407903,Construction and extraction,glaziers,#9a9994,False,A. Workers under 30
+1310,-0.34441613705780405,6.303619504432999,15751.487166666668,0.0038762346502045943,Architecture and engineering,"surveyors, cartographers, and photogrammetrists",#9a9994,False,A. Workers under 30
+640,0.25868297695598613,14.465162192129512,15731.206366666665,-0.0003206851504977677,Business and financial operations,"compensation, benefits, and job analysis specialists",#9a9994,False,A. Workers under 30
+9040,-1.5565447687581238,8.722369023594693,15709.964433333334,-0.007228330298845101,Transportation and material moving,air traffic controllers and airfield operations specialists,#9a9994,False,A. Workers under 30
+810,-0.013842107282505983,-94.71711674302814,15646.474999999999,-0.003968208064442256,Business and financial operations,appraisers and assessors of real estate,#9a9994,False,A. Workers under 30
+7740,-0.0010608367710004444,-9.253034559279383,15592.391533333333,0.0029831175077696132,Production,structural metal fabricators and fitters,#9a9994,False,A. Workers under 30
+8530,0.5798078532126156,-250.90667317688778,15334.974133333335,-0.07085689165821232,Production,"sawing machine setters, operators, and tenders, wood",#9a9994,False,A. Workers under 30
+6130,-0.03895391785986062,15.195004698858854,15079.037966666665,0.011192353541805446,"Farming, fishing, and forestry",logging workers,#9a9994,False,A. Workers under 30
+5340,0.6566114355985422,-79.24576103659145,14799.161633333335,-0.06139646618842459,Office and administrative support,new accounts clerks,#2a78d6,True,A. Workers under 30
+510,1.0091312649421882,-115.39943265235779,14776.8157,-0.0742826639221534,Business and financial operations,"buyers and purchasing agents, farm products",#9a9994,False,A. Workers under 30
+1800,0.7827051326624725,-33.496040039102425,14604.357133333331,-0.01394401976465311,"Life, physical, and social science",economists,#9a9994,False,A. Workers under 30
+8630,-0.17431297932100304,-13.64534339741286,14592.3246,-0.017460711346411837,Production,miscellaneous plant and system operators,#9a9994,False,A. Workers under 30
+7320,-0.3036743409535981,-76.07276304146706,14448.065599999998,-0.0202262874799159,"Installation, maintenance, and repair",home appliance repairers,#9a9994,False,A. Workers under 30
+8100,-1.1937933884912488,-75.30415552294347,14429.87443333333,0.04098429312343213,Production,"model makers, patternmakers, and molding machine setters, metal and plastic",#9a9994,False,A. Workers under 30
+1400,-0.04618267119915362,2.29107173817095,14253.701466666667,-0.003766461857597255,Architecture and engineering,computer hardware engineers,#9a9994,False,A. Workers under 30
+6820,-0.6615711450824908,2.8186316786458385,14133.733466666665,-0.0017910444725315888,Construction and extraction,"earth drillers, except oil and gas",#9a9994,False,A. Workers under 30
+9415,-0.6031550955098214,15.961930735484247,13702.075233333333,-0.004390013946208599,Transportation and material moving,"transportation attendants, except flight attendants",#9a9994,False,A. Workers under 30
+2740,-0.34402585642884204,-14.66700468451425,13358.215466666668,-0.013519923899515274,"Arts, design, entertainment, sports, and media",dancers and choreographers,#9a9994,False,A. Workers under 30
+5150,0.16174362014027868,-9.932866999967958,13292.091766666666,0.0023275139734362446,Office and administrative support,procurement clerks,#2a78d6,True,A. Workers under 30
+5820,0.7600701219320729,-173.57381893519147,13055.540833333333,-0.05470606672021072,Office and administrative support,word processors and typists,#2a78d6,True,A. Workers under 30
+9310,-0.8920818934989426,19.54406185606614,12764.152933333333,-0.005503529461464621,Transportation and material moving,ship and boat captains and operators,#9a9994,False,A. Workers under 30
+820,-0.021149479786338937,76.83200508600002,12715.239466666666,-0.0032166521937347582,Business and financial operations,budget analysts,#9a9994,False,A. Workers under 30
+6040,0.8366541329839455,-24.45506662984414,12556.099666666667,-0.012005392711755986,"Farming, fishing, and forestry","graders and sorters, agricultural products",#9a9994,False,A. Workers under 30
+3250,-0.21554942031712673,69.5605634819429,12536.2566,-0.007557734771612512,Healthcare practitioners and technical,veterinarians,#eb6834,True,A. Workers under 30
+9110,-0.5162127993568775,-47.023055167081715,12517.442199999998,0.02249758398657624,Transportation and material moving,"ambulance drivers and attendants, except emergency medical technicians",#9a9994,False,A. Workers under 30
+1106,0.09723543409758095,72.83655059066851,12302.804100000001,0.0027674563518614304,Computer and mathematical,computer network architects,#1baf7a,True,A. Workers under 30
+5920,0.8762364735149141,63.53733644520035,12218.199833333334,0.042166859732504426,Office and administrative support,statistical assistants,#2a78d6,True,A. Workers under 30
+8420,0.4024132797091857,-13.941763437600036,12150.019500000002,-0.002165058981351146,Production,"textile winding, twisting, and drawing out machine setters, operators, and tenders",#9a9994,False,A. Workers under 30
+7610,0.057030738755335854,-199.79375639167753,11453.721766666667,0.0002504530470584668,"Installation, maintenance, and repair","helpers--installation, maintenance, and repair workers",#9a9994,False,A. Workers under 30
+8750,0.09390071734529397,-25.164237786544465,11450.532466666667,-0.003938648377415975,Production,jewelers and precious stone and metal workers,#9a9994,False,A. Workers under 30
+3000,-0.3260639994906506,-56.83476633043187,11425.515366666667,0.009235214230335818,Healthcare practitioners and technical,chiropractors,#eb6834,True,A. Workers under 30
+2015,-0.867144359231015,-90.71824367024132,11288.7339,0.02255775466260434,Community and social service,probation officers and correctional treatment specialists,#9a9994,False,A. Workers under 30
+4830,-0.03331262846029795,-11.280351746528913,11263.7593,0.00022905820575718768,Sales and related,travel agents,#4a3aa7,True,A. Workers under 30
+1840,1.1640557183353244,-15.472668088822749,10958.925299999999,-0.0011337576136478504,"Life, physical, and social science",urban and regional planners,#9a9994,False,A. Workers under 30
+1420,0.5797950251322141,-82.45673781434348,10843.530266666667,-0.01898785326888801,Architecture and engineering,environmental engineers,#9a9994,False,A. Workers under 30
+7160,-0.3708613945695065,38.953346030500164,10794.461933333334,-0.009041074078629521,"Installation, maintenance, and repair",automotive glass installers and repairers,#9a9994,False,A. Workers under 30
+6720,-0.9765102264417768,-41.17642059449904,10405.791166666666,0.008403632350491854,Construction and extraction,hazardous materials removal workers,#9a9994,False,A. Workers under 30
+7360,-1.3991176065787179,125.96208368274533,10335.761033333332,-0.05773833854450039,"Installation, maintenance, and repair",millwrights,#9a9994,False,A. Workers under 30
+5500,0.151723609205286,-48.34585332696016,10279.452099999999,0.0005311129738177021,Office and administrative support,cargo and freight agents,#2a78d6,True,A. Workers under 30
+3700,-0.799581255939295,-29.05895745802715,10221.790466666667,0.007697189325901457,Protective service,first-line supervisors of correctional officers,#c9459c,True,A. Workers under 30
+2810,0.5073945602818097,161.85338900545239,9879.801466666668,0.026219234454407894,"Arts, design, entertainment, sports, and media","news analysts, reporters and correspondents",#9a9994,False,A. Workers under 30
+9560,0.8374169766125032,91.46946797944327,9770.174133333334,0.02394757985360186,Transportation and material moving,"conveyor operators and tenders, and hoist and winch operators",#9a9994,False,A. Workers under 30
+7100,-0.03895305196723658,70.41186131683887,9669.5575,-0.0138596362461813,"Installation, maintenance, and repair","electrical and electronics repairers, transportation equipment, and industrial and utility",#9a9994,False,A. Workers under 30
+7300,-1.2221129742755736,82.04191519274096,9646.442166666666,-0.030291694804191166,"Installation, maintenance, and repair",control and valve installers and repairers,#9a9994,False,A. Workers under 30
+5250,-0.05023179083737417,-103.70035379852028,9533.8296,0.0015773534820189509,Office and administrative support,"eligibility interviewers, government programs",#2a78d6,True,A. Workers under 30
+8550,-0.5871027038156689,120.88656954968852,9276.416299999999,-0.02061640340056059,Production,"miscellaneous woodworkers, including model makers and patternmakers",#9a9994,False,A. Workers under 30
+9300,0.5567360025356732,30.526887639934625,9165.532866666666,0.012381643850217306,Transportation and material moving,"sailors and marine oilers, and ship engineers",#9a9994,False,A. Workers under 30
+9510,0.1259586082261972,-374.25965824338255,9029.196366666665,-0.013519253504493055,Transportation and material moving,crane and tower operators,#9a9994,False,A. Workers under 30
+9410,-0.26273012801904955,25.114609100033675,8663.171,-0.0017270445313946592,Transportation and material moving,transportation inspectors,#9a9994,False,A. Workers under 30
+8130,-0.5077926523819193,-157.21131793452315,8526.277933333333,0.021618843116301807,Production,tool and die makers,#9a9994,False,A. Workers under 30
+4930,-0.5857708879494599,-85.06366121260236,8489.8044,0.011639790149238844,Sales and related,sales engineers,#4a3aa7,True,A. Workers under 30
+3940,-0.30658664590900553,-100.36565701529756,8417.131666666666,0.00822631301443661,Protective service,crossing guards,#c9459c,True,A. Workers under 30
+6100,-0.7174361421847335,16.134497429578786,8416.267866666667,-0.006162607825397832,"Farming, fishing, and forestry",fishing and hunting workers,#9a9994,False,A. Workers under 30
+100,0.023040503509593302,50.38664920917083,8008.937666666668,0.0002953147240071297,Management,administrative services managers,#9a9994,False,A. Workers under 30
+7040,-0.1146324409090101,120.063793299134,7980.436100000001,-0.012918261545495508,"Installation, maintenance, and repair","electric motor, power tool, and related repairers",#9a9994,False,A. Workers under 30
+3610,-2.0535802673150503,88.74409388081637,7718.1563,-0.043043447419729215,Healthcare support,occupational therapy assistants and aides,#c9459c,True,A. Workers under 30
+3010,-1.4215951646379008,3.4361715495173804,7676.321133333333,-0.004337162491874312,Healthcare practitioners and technical,dentists,#eb6834,True,A. Workers under 30
+7120,0.09149941790686489,58.63988616002651,7644.021333333332,0.0015364280545822845,"Installation, maintenance, and repair",electronic home entertainment equipment installers and repairers,#9a9994,False,A. Workers under 30
+8460,0.4983528946808781,-100.8312615221803,7400.9175,-0.03622020581745661,Production,"miscellaneous textile, apparel, and furnishings workers except upholsterers",#9a9994,False,A. Workers under 30
+7540,-1.6315182396519823,27.84057683832137,7393.2763,-0.008916273258839057,"Installation, maintenance, and repair",locksmiths and safe repairers,#9a9994,False,A. Workers under 30
+1440,0.010817899621932262,-118.1516224580465,7154.744433333333,-0.0003851717264152296,Architecture and engineering,marine engineers and naval architects,#9a9994,False,A. Workers under 30
+7850,-0.025670973225590005,20.499271916014596,6934.028766666667,0.002841898799398937,Production,food cooking machine operators and tenders,#9a9994,False,A. Workers under 30
+4465,-1.3043604313611983,-145.01344388833425,6925.286966666667,0.0416050837117745,Personal care and service,"morticians, undertakers, and funeral directors",#c9459c,True,A. Workers under 30
+7560,-1.2673501944773242,23.092490534698168,6861.3740333333335,-0.009389941046788568,"Installation, maintenance, and repair",riggers,#9a9994,False,A. Workers under 30
+8310,-0.14196158816520432,-180.55118447322266,6819.396233333334,0.005551621642691791,Production,"pressers, textile, garment, and related materials",#9a9994,False,A. Workers under 30
+3945,-1.250635461714903,-60.42196927302825,6657.7400333333335,0.016631415138223925,Protective service,transportation security screeners,#c9459c,True,A. Workers under 30
+6460,-0.5669626089164024,-100.14146911585524,6459.303766666667,0.01164814663325854,Construction and extraction,plasterers and stucco masons,#9a9994,False,A. Workers under 30
+3210,-0.5547487252637564,63.443930321195715,6236.286700000001,-0.006834238116781452,Healthcare practitioners and technical,recreational therapists,#eb6834,True,A. Workers under 30
+4460,-2.539176421278193,24.53628672111135,6215.472733333334,-0.011205318598755856,Personal care and service,embalmers and funeral attendants,#c9459c,True,A. Workers under 30
+7430,-1.0120614470354161,21.50474228096704,6031.814933333334,-0.004169575818771094,"Installation, maintenance, and repair",precision instrument and equipment repairers,#9a9994,False,A. Workers under 30
+137,0.30462480685630966,40.61204438126894,5745.7053,0.0025302438282853823,Management,training and development managers,#9a9994,False,A. Workers under 30
+8330,-0.32796871198436434,16.449280660149416,5696.949333333332,-0.0008586496580218119,Production,shoe and leather workers,#9a9994,False,A. Workers under 30
+7830,1.0602130361196793,0.13306800619924175,4754.820533333333,2.1306085368191742e-05,Production,"food and tobacco roasting, baking, and drying machine operators and tenders",#9a9994,False,A. Workers under 30
+8040,-0.2334143409781615,-2.100431662928111,4478.523466666667,0.00016982573931756045,Production,"metal furnace operators, tenders, pourers, and casters",#9a9994,False,A. Workers under 30
+2840,2.2516171357407284,-41.15599272189549,4358.218166666667,-0.015809008511297653,"Arts, design, entertainment, sports, and media",technical writers,#9a9994,False,A. Workers under 30
+930,0.41605567499842766,85.80916938243885,4269.772233333333,0.004841641183824502,Business and financial operations,"tax examiners and collectors, and revenue agents",#9a9994,False,A. Workers under 30
+5010,0.3355848586462982,54.1969813001656,4215.760133333334,0.002574461525507466,Office and administrative support,"switchboard operators, including answering service",#2a78d6,True,A. Workers under 30
+9650,-0.09363531811352574,80.50685719483573,4118.868066666667,-0.0008878781523139978,Transportation and material moving,pumping station operators,#9a9994,False,A. Workers under 30
+1710,2.437244694040488,-170.80270608118175,4105.329766666667,-0.05428060411664533,"Life, physical, and social science",atmospheric and space scientists,#9a9994,False,A. Workers under 30
+1600,0.12060533764381087,51.719282351384166,4076.3161,0.0005646323151696755,"Life, physical, and social science",agricultural and food scientists,#9a9994,False,A. Workers under 30
+8600,-0.5068258304638099,180.18125548390788,3993.7658333333334,-0.010090523536418988,Production,"power plant operators, distributors, and dispatchers",#9a9994,False,A. Workers under 30
+6830,-0.5753570415178653,187.63165922146322,3907.4173666666666,-0.01376221757261879,Construction and extraction,"explosives workers, ordnance handling experts, and blasters",#9a9994,False,A. Workers under 30
+3140,-0.9689094313731743,-2.901758926890338,3844.2789,0.0003432907836777636,Healthcare practitioners and technical,audiologists,#eb6834,True,A. Workers under 30
+7350,-1.5561515851327783,95.7097534553904,3834.3246666666664,-0.016776579158266868,"Installation, maintenance, and repair","maintenance workers, machinery",#9a9994,False,A. Workers under 30
+8940,-0.38975062149909667,-67.39905534220733,3622.9877666666666,0.0030228057327438725,Production,tire builders,#9a9994,False,A. Workers under 30
+3900,-0.5782704458103101,-32.74134284739027,3580.7624,0.002153305911527455,Protective service,animal control workers,#c9459c,True,A. Workers under 30
+5230,-0.2605288679241732,-31.532287561342358,2875.8642999999997,0.0007503820974342374,Office and administrative support,"credit authorizers, checkers, and clerks",#2a78d6,True,A. Workers under 30
+8720,0.03605355758110757,125.46347301737502,2738.0168333333336,0.00048383830661579514,Production,"extruding, forming, pressing, and compacting machine setters, operators, and tenders",#9a9994,False,A. Workers under 30
+3040,-1.595195162478463,100.77227866105683,2619.3050333333335,-0.01301118531711156,Healthcare practitioners and technical,optometrists,#eb6834,True,A. Workers under 30
+900,-1.9332022232776225,-34.23095756075164,2455.7179333333333,0.005161519344924362,Business and financial operations,financial examiners,#9a9994,False,A. Workers under 30
+5020,-0.24761811923367436,-65.81147328034368,2319.7046333333333,0.0012006584104472806,Office and administrative support,telephone operators,#2a78d6,True,A. Workers under 30
+9200,-0.8407952949162969,34.38362755967478,2157.433433333333,-0.001980989232240458,Transportation and material moving,locomotive engineers and operators,#9a9994,False,A. Workers under 30
+8930,1.5198892975416431,96.34162964418715,2052.5781666666667,0.009546153067203545,Production,"paper goods machine setters, operators, and tenders",#9a9994,False,A. Workers under 30
+9260,0.573111313954776,104.0147189997921,1717.3490000000002,0.003251584820082531,Transportation and material moving,"subway, streetcar, and other rail transportation workers",#9a9994,False,A. Workers under 30
+5530,0.5927274825335332,-78.67783845522922,1552.9483,-0.0023002086138425235,Office and administrative support,"meter readers, utilities",#2a78d6,True,A. Workers under 30
+8450,-0.8911165864976691,112.47703683190029,1503.847966666667,-0.00478745903015215,Production,upholsterers,#9a9994,False,A. Workers under 30
+7730,0.42444661833092767,266.8319364051183,1251.2337,0.004500927964134315,Production,engine and other machine assemblers,#9a9994,False,A. Workers under 30
+3750,-1.4882990489085575,200.3729240532888,1185.0314666666666,-0.011224367207484797,Protective service,fire inspectors,#c9459c,True,A. Workers under 30
+1520,-1.3752819089323842,297.4477878936928,797.7007,-0.010364424454773643,Architecture and engineering,"petroleum, mining and geological engineers, including mining safety engineers",#9a9994,False,A. Workers under 30
+3710,-0.74438724315692,219.91794987326742,701.3515333333334,-0.0036466836892789334,Protective service,first-line supervisors of police and detectives,#c9459c,True,A. Workers under 30
+2440,0.6606096743638783,206.80494031420437,449.82136666666673,0.0019518599959150223,Educational instruction and library,library technicians,#9a9994,False,A. Workers under 30

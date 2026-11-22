@@ -1,0 +1,93 @@
+### Stage 1: Traditional Machine Learning
+
+CORE CAPABILITIES:
+- Supervised learning: classification, regression, ranking on structured/tabular data
+- Unsupervised learning: clustering, anomaly detection, dimensionality reduction
+- Time-series forecasting and demand prediction
+- Rule-based and statistical NLP: named entity recognition, sentiment classification, keyword extraction, spam filtering, topic modeling (LDA), TF-IDF search
+- Computer vision (CNNs): image classification, object detection, facial recognition, OCR (optical character recognition)
+- Robotic process automation (RPA): rule-based automation of repetitive digital workflows (form filling, data entry, file transfers between systems)
+- Recommendation engines and personalization algorithms
+- Optimization algorithms (scheduling, routing, resource allocation)
+
+KEY LIMITATIONS:
+- Cannot generate coherent free-form text, creative content, or natural dialogue
+- Cannot reason across domains or handle novel, unstructured problems
+- Cannot understand context, nuance, or ambiguity in language
+- Requires labeled training data and task-specific model development
+- Brittle when inputs deviate from training distribution
+- No ability to explain reasoning or engage in multi-step logical analysis
+
+EXAMPLE SYSTEMS: XGBoost, random forests, logistic regression, BERT (classification fine-tuned), spaCy NER pipelines, Tesseract OCR, UiPath/Automation Anywhere (RPA), TensorFlow object detection, scikit-learn pipelines.
+
+### Stage 2: Foundation Models — LLMs and Multimodal AI
+
+CORE CAPABILITIES:
+- Coherent text generation: drafting, summarization, paraphrasing, translation across dozens of languages
+- Conversational question-answering and instruction-following
+- Zero-shot and few-shot task performance without task-specific training
+- Code generation, debugging, and explanation in major programming languages
+- Multimodal understanding: process images, audio, video, and documents as inputs
+- Multimodal generation: create images, audio, and video from text descriptions
+- Basic reasoning and analysis on short, self-contained problems
+- Information synthesis across documents provided in context
+- Style adaptation: adjust tone, register, reading level for audience
+
+KEY LIMITATIONS:
+- Prone to hallucination: confidently generates plausible but incorrect facts
+- Unreliable on tasks requiring precise factual recall or numerical computation
+- Limited multi-step reasoning — performance degrades on chains longer than 3-4 steps
+- No persistent memory across sessions; cannot learn or update from experience
+- Cannot access external tools, databases, or live information independently
+- Context windows of 4K-128K tokens constrain input length
+- Cannot verify its own outputs or detect its own errors
+- Struggles with tasks requiring spatial reasoning, physical intuition, or causal inference
+- No ability to take actions in the world — generates text/media only
+
+EXAMPLE SYSTEMS: GPT-3.5, GPT-4, Claude 2/3, Gemini 1.0/1.5, Llama 2/3, DALL-E 3, Midjourney, Stable Diffusion, Whisper (transcription).
+
+### Stage 3: Reasoning Models
+
+CORE CAPABILITIES (in addition to all Stage 2 capabilities):
+- Extended chain-of-thought reasoning: reliably solves multi-step logical, mathematical, and analytical problems (10+ reasoning steps)
+- High factual consistency: significantly reduced hallucination rates compared to Stage 2
+- Strong performance on expert-level tasks in law, medicine, science, finance, and software engineering (e.g., passes professional licensing exams at high percentiles)
+- Can decompose complex problems into sub-problems and solve them sequentially
+- Improved calibration: better at expressing uncertainty and flagging knowledge gaps
+- Capable of reviewing, critiquing, and iterating on its own outputs when prompted
+
+KEY LIMITATIONS:
+- Still operates within a single session — no persistent learning or memory
+- Cannot autonomously access tools, browse the web, or execute code unless a human initiates the interaction and provides the interface
+- Requires human-in-the-loop: a person must frame the task, provide inputs, and evaluate outputs
+- Cannot manage multi-step workflows that span multiple systems or time periods
+- Cannot monitor ongoing processes, respond to real-time changes, or take initiative
+- Performance still degrades on highly novel problems outside training distribution
+- Does not replace the need for domain expertise to evaluate output quality
+
+EXAMPLE SYSTEMS: o1, o3, Claude Sonnet 4.5 (extended thinking), Gemini 2.0 Flash Thinking, DeepSeek-R1.
+
+KEY DISTINCTION FROM STAGE 2: Stage 3 models are dramatically better at complex analytical tasks but still require a human operator to drive the workflow. They make workers more productive; they do not replace the worker's role in the process.
+
+### Stage 4: AI Agents
+
+CORE CAPABILITIES (in addition to all Stage 3 capabilities):
+- Autonomous multi-step task execution: plans, executes, monitors, and adjusts workflows with minimal human oversight
+- Tool use: independently calls APIs, queries databases, executes code, manages files, sends communications, and navigates software interfaces
+- Error detection and self-correction: identifies when outputs are wrong or when a plan is failing, and revises approach
+- Persistent operation: can work on tasks over extended periods (hours to days), maintaining state and context
+- Coordination: can orchestrate multiple sub-agents or tools to accomplish complex goals
+- Learns from feedback within a task: adjusts strategy based on intermediate results
+
+KEY LIMITATIONS:
+- Reliability is imperfect: autonomous operation introduces compounding error risk across long task chains
+- Cannot handle situations requiring physical presence, embodied action, or real-time physical manipulation
+- Cannot navigate truly novel situations that require human judgment, ethical reasoning, or stakeholder negotiation
+- Cannot build trust, empathy, or interpersonal rapport
+- Accountability and oversight gaps: when errors occur, attribution and correction are harder than with human workers
+- Current systems are domain-specific — general-purpose autonomous agents remain limited
+- Cannot replace tasks that require professional licensure, legal authority, or fiduciary responsibility (e.g., signing contracts, making medical decisions of record)
+
+EXAMPLE SYSTEMS: Claude with computer use, Devin (software engineering), multi-agent orchestration frameworks (CrewAI, AutoGen), Operator-style browser agents.
+
+KEY DISTINCTION FROM STAGE 3: Stage 4 systems can independently execute workflows that Stage 3 models can only assist with. The human shifts from operator to supervisor.

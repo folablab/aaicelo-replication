@@ -1,0 +1,23 @@
+{
+  "model_key": "gpt-5-mini",
+  "model_id": "openai/gpt-5-mini",
+  "batch": "robustness/batches/pa_pilot1000.jsonl",
+  "prompt": "a",
+  "mode": "production",
+  "requested": 996,
+  "succeeded": 996,
+  "failed": 0,
+  "previously_done": 4,
+  "prompt_tokens": 2804792,
+  "completion_tokens": 3710502,
+  "estimated_cost_usd": 7.708,
+  "providers": {
+    "OpenAI": 1000
+  },
+  "elapsed_seconds": 2412.5,
+  "concurrency": 16,
+  "json_mode": true,
+  "max_tokens": 10000,
+  "seed": 12345,
+  "temperature": 0
+}

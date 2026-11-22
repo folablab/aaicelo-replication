@@ -1,0 +1,166 @@
+{
+  "occupation": "Tax Preparers",
+  "onet_code": "13-2082.00",
+  "task_id": 7359,
+  "task_text": "Prepare or assist in preparing simple to complex tax returns for individuals or small businesses.",
+  "subtask_assessments": [
+    {
+      "subtask_id": 1,
+      "subtask": "Gather and review client financial documents, records, and prior tax returns to identify all relevant income, deductions, and credits.",
+      "pct_of_total_time": 20,
+      "time_savings_by_stage": {
+        "stage_1": {
+          "technical": 35,
+          "feasible": 25
+        },
+        "stage_2": {
+          "technical": 65,
+          "feasible": 45
+        },
+        "stage_3": {
+          "technical": 75,
+          "feasible": 55
+        },
+        "stage_4": {
+          "technical": 90,
+          "feasible": 65
+        }
+      }
+    },
+    {
+      "subtask_id": 2,
+      "subtask": "Analyze and categorize financial information, calculate taxable income, determine applicable deductions and credits, and identify tax implications.",
+      "pct_of_total_time": 25,
+      "time_savings_by_stage": {
+        "stage_1": {
+          "technical": 30,
+          "feasible": 20
+        },
+        "stage_2": {
+          "technical": 50,
+          "feasible": 35
+        },
+        "stage_3": {
+          "technical": 75,
+          "feasible": 55
+        },
+        "stage_4": {
+          "technical": 88,
+          "feasible": 65
+        }
+      }
+    },
+    {
+      "subtask_id": 3,
+      "subtask": "Enter financial data and tax information into tax preparation software or forms, ensuring accuracy and compliance with current tax codes.",
+      "pct_of_total_time": 20,
+      "time_savings_by_stage": {
+        "stage_1": {
+          "technical": 70,
+          "feasible": 55
+        },
+        "stage_2": {
+          "technical": 85,
+          "feasible": 70
+        },
+        "stage_3": {
+          "technical": 92,
+          "feasible": 78
+        },
+        "stage_4": {
+          "technical": 97,
+          "feasible": 85
+        }
+      }
+    },
+    {
+      "subtask_id": 4,
+      "subtask": "Review completed tax return for mathematical accuracy, completeness, and compliance with tax regulations before finalizing.",
+      "pct_of_total_time": 15,
+      "time_savings_by_stage": {
+        "stage_1": {
+          "technical": 35,
+          "feasible": 25
+        },
+        "stage_2": {
+          "technical": 55,
+          "feasible": 40
+        },
+        "stage_3": {
+          "technical": 78,
+          "feasible": 58
+        },
+        "stage_4": {
+          "technical": 90,
+          "feasible": 68
+        }
+      }
+    },
+    {
+      "subtask_id": 5,
+      "subtask": "Communicate with clients to clarify missing information, explain tax positions, and discuss filing options or tax-saving strategies.",
+      "pct_of_total_time": 12,
+      "time_savings_by_stage": {
+        "stage_1": {
+          "technical": 10,
+          "feasible": 8
+        },
+        "stage_2": {
+          "technical": 55,
+          "feasible": 35
+        },
+        "stage_3": {
+          "technical": 70,
+          "feasible": 50
+        },
+        "stage_4": {
+          "technical": 82,
+          "feasible": 58
+        }
+      }
+    },
+    {
+      "subtask_id": 6,
+      "subtask": "Make final determinations on tax filing positions, deduction eligibility, and return accuracy, then authorize the return for submission.",
+      "pct_of_total_time": 8,
+      "time_savings_by_stage": {
+        "stage_1": {
+          "technical": 10,
+          "feasible": 7
+        },
+        "stage_2": {
+          "technical": 25,
+          "feasible": 15
+        },
+        "stage_3": {
+          "technical": 50,
+          "feasible": 30
+        },
+        "stage_4": {
+          "technical": 65,
+          "feasible": 40
+        }
+      }
+    }
+  ],
+  "stage_1": {
+    "time_savings_pct_technical": 35.8,
+    "time_savings_pct_feasible": 26.3,
+    "primary_constraint": "economic, organizational, regulatory"
+  },
+  "stage_2": {
+    "time_savings_pct_technical": 59.4,
+    "time_savings_pct_feasible": 43.2,
+    "primary_constraint": "economic, organizational, regulatory"
+  },
+  "stage_3": {
+    "time_savings_pct_technical": 76.3,
+    "time_savings_pct_feasible": 57.4,
+    "primary_constraint": "regulatory, organizational"
+  },
+  "stage_4": {
+    "time_savings_pct_technical": 87.9,
+    "time_savings_pct_feasible": 66.6,
+    "primary_constraint": "regulatory, organizational, economic"
+  }
+}

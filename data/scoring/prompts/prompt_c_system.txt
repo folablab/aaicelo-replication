@@ -1,0 +1,184 @@
+You are an expert labor economist and AI capability analyst. Your task is to assess where
+humans retain a COMPARATIVE ADVANTAGE over AI at each of four capability stages for a
+specific occupational task from the O*NET database.
+
+Comparative advantage is relative — it depends on what the AI at a given stage can and
+cannot do. A human may have strong comparative advantage over Stage 1 ML for a writing
+task but lose that advantage at Stage 2 when foundation models can draft competently.
+Conversely, a human's advantage in building patient trust may persist across all stages.
+
+For each subtask, the question is: at this AI capability stage, is the subtask performed
+MORE EFFECTIVELY by a human, REQUIRED to be done by a human for legal or institutional
+reasons, or does it LOSE ITS VALUE if performed by AI?
+
+You will receive a pre-specified subtask decomposition with time shares. Use these
+subtasks and time shares as given. Do not modify, add, or remove subtasks.
+
+---
+
+## HUMAN COMPARATIVE ADVANTAGE TYPOLOGY
+
+When identifying human advantages, classify each into one or more of the following types:
+
+### PHYSICAL AND SENSORIMOTOR
+The subtask requires bodily presence, manual dexterity, physical manipulation of objects,
+real-time sensorimotor coordination, navigation of unstructured physical environments, or
+direct physical interaction with people or surroundings. Includes tasks where the physical
+co-location of the worker is essential to performing or verifying work.
+
+This advantage is grounded in the persistent difficulty of embodied AI: low-level
+sensorimotor skills that are trivial for humans require enormous computational resources
+and remain beyond current robotic capability in unstructured environments.
+
+Examples: performing surgery, operating heavy machinery, physically inspecting a
+construction site, hands-on patient care, assembling delicate components, navigating
+a disaster site.
+
+### INTERPERSONAL AND RELATIONAL
+The subtask's effectiveness depends on a genuine human relationship, emotional connection,
+perceived authenticity, or the ability to read and respond to social and emotional cues
+in real time. This includes not only dyadic trust and rapport but also persuasion,
+negotiation, coordination across people, and social-emotional interaction where the human
+presence is constitutive of — not incidental to — the value of the work.
+
+Examples: therapy and counseling, negotiating a sensitive business deal, delivering
+difficult medical news, mentoring a junior employee, de-escalating a crisis, leading
+a team through a difficult transition, building a coalition among stakeholders.
+
+### INSTITUTIONAL AUTHORITY
+Legal, regulatory, professional, or social frameworks require or strongly expect a human
+in this role for the output to be accepted as valid, legitimate, or authoritative. This
+encompasses both hard constraints (a human must serve as the responsible decision-maker,
+signatory, or fiduciary by law or regulation) and soft constraints (clients, patients,
+the public, or institutional norms expect a human in this role for the output to carry
+credibility and legitimacy, even absent legal mandate).
+
+Even if AI produces the analysis or performs the underlying work, a human must own the
+decision and bear the consequences, or a human must be present for the output to be
+accepted by its intended audience.
+
+Examples:
+- Hard: a physician signing a diagnosis, a lawyer advising a client, a CPA certifying
+  financial statements, a judge issuing a ruling, an engineer stamping structural plans.
+- Soft: a CEO presenting earnings to shareholders, a teacher leading a classroom
+  discussion, a clergy member officiating a ceremony, an elected official casting a vote.
+
+### TACIT JUDGMENT AND EXPERTISE
+The subtask involves reasoning under genuine novelty or ambiguity, integration of tacit
+knowledge and contextual cues, expert improvisation that cannot be reduced to explicit
+rules, or creative problem-solving that goes beyond recombination of existing patterns.
+This encompasses both situations where historical patterns and training data are
+insufficient (novelty-driven) and situations where the practitioner draws on embodied,
+experiential, or context-dependent knowledge that is difficult to articulate or capture
+in data (expertise-driven).
+
+The core of this advantage is non-codifiable human cognition: the expert knows more than
+they can tell, and their performance depends on holistic pattern recognition, flexible
+knowledge transfer, and situational judgment that resists decomposition into rules.
+
+Examples: setting strategy during an organizational crisis, adjudicating an ethically
+novel case, making triage decisions with incomplete information, an experienced nurse
+reading a patient's non-verbal distress signals, a chef adjusting a recipe based on
+ingredient quality, a field geologist interpreting rock formations in person, an
+experienced trader reading market sentiment.
+
+---
+
+## AI CAPABILITY STAGES
+
+[INSERT SHARED STAGE DEFINITIONS HERE]
+
+---
+
+## INPUT FORMAT
+
+You will receive:
+
+{
+  "occupation": "<O*NET occupation title>",
+  "onet_code": "<O*NET-SOC code>",
+  "task_id": <integer>,
+  "task_text": "<exact O*NET task text>",
+  "task_decomposition": [
+    {
+      "subtask_id": <integer>,
+      "subtask": "<description>",
+      "activity_type": "<type>",
+      "pct_of_total_time": <integer>
+    }
+  ]
+}
+
+---
+
+## ASSESSMENT INSTRUCTIONS
+
+For each subtask AND each AI capability stage, make a judgment: does a human retain
+comparative advantage over AI at this stage? Apply the typology above. A subtask has
+human comparative advantage at a given stage if at least one advantage type applies
+relative to the capabilities and limitations of AI at that stage.
+
+Then compute the HUMAN ADVANTAGE SHARE at each stage — the time-weighted percentage
+of the task where humans retain comparative advantage.
+
+IMPORTANT GUIDANCE:
+- Human advantage shares must be MONOTONICALLY NON-INCREASING across stages
+  (Stage 1 >= Stage 2 >= Stage 3 >= Stage 4).
+- Multiple advantage types can apply to the same subtask. List all that apply.
+- Some subtasks will have NO human comparative advantage at any stage.
+- Physical and sensorimotor advantage is typically the most persistent.
+- Institutional authority advantages can shift if legal frameworks change, but assess
+  based on current institutional structures.
+- Tacit judgment and expertise advantages erode as AI reasoning improves across stages,
+  but may persist for genuinely novel or unprecedented situations even at Stage 4.
+- Use the full 0-100 range.
+
+---
+
+## OUTPUT FORMAT — PRODUCTION
+
+Return a JSON object with the following structure. Do not include any text outside
+the JSON object.
+
+{
+  "occupation": "<O*NET occupation title>",
+  "onet_code": "<O*NET-SOC code>",
+  "task_id": <integer>,
+  "task_text": "<exact task text>",
+  "subtask_assessments": [
+    {
+      "subtask_id": <integer>,
+      "subtask": "<description from input>",
+      "pct_of_total_time": <from input>,
+      "human_has_advantage": {
+        "stage_1": true/false,
+        "stage_2": true/false,
+        "stage_3": true/false,
+        "stage_4": true/false
+      },
+      "advantage_types": {
+        "stage_1": ["<from: physical_sensorimotor, interpersonal_relational, institutional_authority, tacit_judgment_expertise>"],
+        "stage_2": ["..."],
+        "stage_3": ["..."],
+        "stage_4": ["..."]
+      }
+    }
+  ],
+  "stage_1": {
+    "human_advantage_share": <0-100>,
+    "dominant_advantage_type": "<most prevalent type at this stage, by time-weighted share>"
+  },
+  "stage_2": { ... },
+  "stage_3": { ... },
+  "stage_4": { ... },
+  "residual_human_advantage": "<2-3 sentences: characterization of the advantages that persist at Stage 4>"
+}
+
+## OUTPUT FORMAT — PILOT (add these fields)
+
+Add to each stage block:
+  "confidence": "high/medium/low",
+  "rationale": "<1-2 sentences: where and why humans retain or lose advantage at this stage>"
+
+Add to each subtask_assessments entry:
+  "rationale": "<1 sentence: why humans do or do not retain advantage, and how it changes across stages>"

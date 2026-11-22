@@ -1,0 +1,19 @@
+design,window,group,b,se
+Three-year first differences,Placebo window: 2021Q4--2022Q3 vs. three years earlier,Under 30,-0.70129968538042,2.06314749829521
+Three-year first differences,Placebo window: 2021Q4--2022Q3 vs. three years earlier,30 to 49,-0.25986902176611,1.41168088523094
+Three-year first differences,Placebo window: 2021Q4--2022Q3 vs. three years earlier,50 to 64,2.63893446492958,1.46133504261539
+Three-year first differences,Base period before ChatGPT: 2025Q1--Q4 vs. 2022Q1--Q4,Under 30,-4.38484681618621,1.8482541148512202
+Three-year first differences,Base period before ChatGPT: 2025Q1--Q4 vs. 2022Q1--Q4,30 to 49,-0.027817373863649998,1.58213844257452
+Three-year first differences,Base period before ChatGPT: 2025Q1--Q4 vs. 2022Q1--Q4,50 to 64,1.1028920718834,1.7463127824818798
+Three-year first differences,Headline window: 2026Q1--Q2 vs. 2023Q1--Q2,Under 30,-8.198193037537,1.9229176834378698
+Three-year first differences,Headline window: 2026Q1--Q2 vs. 2023Q1--Q2,30 to 49,0.65599993682479,1.5980986974603002
+Three-year first differences,Headline window: 2026Q1--Q2 vs. 2023Q1--Q2,50 to 64,-0.83060180760413,1.87970999977469
+"Occupation fixed effects, 2023Q1--2026Q2",Pooled coefficient,Under 30,-5.04893741563052,2.10864566741582
+"Occupation fixed effects, 2023Q1--2026Q2",Pooled coefficient,30 to 49,3.02550437420467,1.54917686982177
+"Occupation fixed effects, 2023Q1--2026Q2",Pooled coefficient,50 to 64,-2.87245459001277,1.79628122303323
+"Occupation fixed effects, 2023Q1--2026Q2",Before the reasoning-model inflection (2025Q1),Under 30,-3.4580321163861805,2.31285352344115
+"Occupation fixed effects, 2023Q1--2026Q2",Before the reasoning-model inflection (2025Q1),30 to 49,0.62200049974852,2.24758525462236
+"Occupation fixed effects, 2023Q1--2026Q2",Before the reasoning-model inflection (2025Q1),50 to 64,1.59460840370673,2.52130448977169
+"Occupation fixed effects, 2023Q1--2026Q2",From the reasoning-model inflection on,Under 30,-4.34799373790192,1.80969635751382
+"Occupation fixed effects, 2023Q1--2026Q2",From the reasoning-model inflection on,30 to 49,2.0073581833739698,1.6664674047823897
+"Occupation fixed effects, 2023Q1--2026Q2",From the reasoning-model inflection on,50 to 64,-0.9598729868139101,1.70282337579623

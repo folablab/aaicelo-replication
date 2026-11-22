@@ -1,0 +1,23 @@
+group,label,b,se
+Remote work,Baseline,-8.19819303753704,1.9229176834378698
+Remote work,Add base-quarter telework share,-5.66968919123592,2.69390648053401
+Remote work,Add change in telework share,-7.599063337254649,1.9876243111556402
+Remote work,Add base share and change,-4.70292386059228,2.78750000382602
+Remote work,"Add remote-hours share, base and change",-4.42169824297646,2.7074506063697603
+Remote work,Add Dingel--Neiman teleworkability,-8.42315338376472,2.23188942432421
+Remote work,Add all three remote-work controls,-5.09204257229724,2.75057508417915
+The technology sector,Drop computer and mathematical occupations,-8.44570830833207,2.00273000011067
+The technology sector,"Drop computer, mathematical, and science occupations",-8.14940737411823,2.00791819576235
+Industry trends,Add base-quarter industry shares,-6.56543814875029,2.18178475638371
+Industry trends,Industry shares $\times$ quarter effects,-6.570114507617101,2.18666585543386
+Educated office work,Major group $\times$ quarter effects,-9.71897435573965,3.2674630500646598
+Educated office work,Drop each major group in turn (range of 22 estimates),-8.96363028313957,-6.234531307919109
+Pre-trends,"Placebo window, 2021Q4 to 2022Q3 vs. three years earlier",-0.70129968538042,2.06314749829521
+The measure,Unweighted,-10.40838821536555,4.1088621035844
+The measure,Trim 1 percent exposure tails,-8.55447814287577,1.9694652520886697
+The measure,At least 30 base-quarter respondents,-7.90620954604409,1.96484080450627
+The measure,One-to-one harmonized codes only,-8.39725539245201,2.1565754665746497
+The measure,"2018 census codes, 513 occupations",-7.32087302534844,1.99623399916334
+The measure,Region shares $\times$ quarter effects,-8.067678947324989,1.91552150534572
+The measure,Eloundou et al. (2024) measure as the regressor,-10.30135620317085,2.27959954674996
+The measure,Felten et al. (2023) measure as the regressor,-9.23625389910801,2.82167159237677

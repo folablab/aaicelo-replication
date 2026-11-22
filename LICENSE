@@ -1,0 +1,18 @@
+Replication package for "Advancing AI Capabilities and Evolving Labor Outcomes"
+Copyright (c) 2026 Jacob Dominski, Tyler Boes, and Yong Suk Lee
+
+The code in this repository and the data created by the authors (the occupational AI exposure scores and the task-level scores in
+data/pipeline/ and data/scoring/, and the built exhibits in output/) are licensed under the Creative Commons
+Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
+
+You may use, copy, redistribute, and adapt this material for any non-commercial purpose, provided that you give appropriate
+credit (cite the paper and this repository), indicate if changes were made, and do not use the material for commercial purposes.
+The material is provided as is, without warranties of any kind.
+
+The full license text is at https://creativecommons.org/licenses/by-nc/4.0/legalcode and a summary at
+https://creativecommons.org/licenses/by-nc/4.0/.
+
+Data from third parties are not covered by this license and remain subject to the terms of their sources, listed in README.md
+and data/README.md: the Current Population Survey aggregates (IPUMS-CPS), O*NET, the Real-Time Population Survey adoption
+shares, the Eloundou et al. (2024) and Felten et al. (2023) measures, and the lab repository's Stata code and outputs, whose
+copyright is held by their authors.

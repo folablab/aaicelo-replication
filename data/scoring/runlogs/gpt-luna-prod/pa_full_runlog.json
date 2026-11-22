@@ -1,0 +1,23 @@
+{
+  "model_key": "gpt-luna",
+  "model_id": "openai/gpt-5.6-luna",
+  "batch": "robustness/batches/pa_full.jsonl",
+  "prompt": "a",
+  "mode": "production",
+  "requested": 3,
+  "succeeded": 0,
+  "failed": 3,
+  "previously_done": 19278,
+  "prompt_tokens": 54073778,
+  "completion_tokens": 31217919,
+  "estimated_cost_usd": 20.165,
+  "providers": {
+    "OpenAI": 19278
+  },
+  "elapsed_seconds": 201.2,
+  "concurrency": 16,
+  "json_mode": true,
+  "max_tokens": 16000,
+  "seed": 31415,
+  "temperature": 0
+}

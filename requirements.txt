@@ -1,0 +1,6 @@
+# Python 3.9 or later. Versions used to build the submitted exhibits (macOS, November 2026):
+pandas==2.3.3
+numpy==1.24.3
+statsmodels==0.14.6
+matplotlib==3.9.4
+pyarrow==21.0.0

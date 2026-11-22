@@ -1,0 +1,32 @@
+{
+  "model_key": "kimi-k2.6",
+  "model_id": "moonshotai/kimi-k2.6",
+  "batch": "robustness/batches/pa_pilot1000.jsonl",
+  "prompt": "a",
+  "mode": "production",
+  "requested": 996,
+  "succeeded": 990,
+  "failed": 6,
+  "previously_done": 4,
+  "prompt_tokens": 2797391,
+  "completion_tokens": 5982906,
+  "estimated_cost_usd": 22.6555,
+  "providers": {
+    "CoreWeave": 143,
+    "Decart": 124,
+    "Inceptron": 152,
+    "Parasail": 111,
+    "DeepInfra": 102,
+    "Cloudflare": 66,
+    "Crusoe": 79,
+    "Novita": 102,
+    "Phala": 44,
+    "AtlasCloud": 70
+  },
+  "elapsed_seconds": 9392.2,
+  "concurrency": 16,
+  "json_mode": true,
+  "max_tokens": 10000,
+  "seed": 12345,
+  "temperature": 0
+}

@@ -1,0 +1,23 @@
+mgroup,name,occ2010_low,occ2010_high
+1,Management,10,430
+2,Business and financial operations,500,950
+3,Computer and mathematical,1000,1240
+4,Architecture and engineering,1300,1560
+5,"Life, physical, and social science",1600,1980
+6,Community and social service,2000,2060
+7,Legal,2100,2160
+8,Educational instruction and library,2200,2550
+9,"Arts, design, entertainment, sports, and media",2600,2960
+10,Healthcare practitioners and technical,3000,3540
+11,Healthcare support,3600,3655
+12,Protective service,3700,3955
+13,Food preparation and serving related,4000,4160
+14,Building and grounds cleaning and maintenance,4200,4250
+15,Personal care and service,4300,4650
+16,Sales and related,4700,4965
+17,Office and administrative support,5000,5940
+18,"Farming, fishing, and forestry",6005,6130
+19,Construction and extraction,6200,6940
+20,"Installation, maintenance, and repair",7000,7630
+21,Production,7700,8965
+22,Transportation and material moving,9000,9750

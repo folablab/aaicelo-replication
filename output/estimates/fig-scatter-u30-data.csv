@@ -1,0 +1,433 @@
+occ2010,x,y,rx,ry,w,contrib,group,title,c
+4720,27.2027,1.3505,0.4888,1.3981,2420631.6248,0.0485,Sales and related,cashiers,-0.0033
+4760,29.2261,-0.2176,0.0760,1.3122,2060783.6190,-0.0056,Sales and related,retail salespersons,-0.0006
+4110,17.8331,6.0427,-0.4460,5.6511,1971164.0591,-0.1605,Food preparation and serving related,waiters and waitresses,-0.0218
+5240,50.0787,-26.0788,1.6466,-20.5638,1892612.1369,-2.0457,Office and administrative support,customer service representatives,-0.0806
+9620,16.3157,7.5069,-0.3668,11.5699,1433087.4842,-0.1947,Transportation and material moving,"laborers and freight, stock, and material movers, hand",-0.0206
+3255,28.4761,0.0089,-1.4657,15.5657,1394764.6664,-1.0078,Healthcare practitioners and technical,registered nurses,-0.0008
+430,44.4701,-3.8278,0.3692,0.7179,1394519.6399,0.0267,Management,"miscellaneous managers, including funeral service managers and postmasters and mail superintendents",-0.0008
+4020,17.3018,0.5824,-0.2062,4.0088,1344669.9408,-0.0487,Food preparation and serving related,cooks,-0.0066
+5620,24.5996,16.6534,0.2212,19.9614,1326007.2931,0.2016,Office and administrative support,stock clerks and order fillers,-0.0141
+4700,34.5822,-8.9414,0.1340,-9.7575,1246798.0168,-0.0258,Sales and related,first-line supervisors of retail sales workers,-0.0029
+6260,14.7260,4.9021,-0.2614,2.5262,1173427.6131,-0.0304,Construction and extraction,construction laborers,-0.0143
+9130,24.4361,10.6236,-0.0591,10.2853,1163597.7723,-0.0217,Transportation and material moving,driver/sales workers and truck drivers,-0.0089
+4050,17.4556,16.3186,-0.3063,17.9782,1132026.5945,-0.1983,Food preparation and serving related,"combined food preparation and serving workers, including fast food",-0.0269
+2310,29.3489,-11.2642,-0.7849,7.7060,1083556.2061,-0.2139,Educational instruction and library,elementary and middle school teachers,0.0007
+1020,57.0688,9.3286,0.3173,7.1615,1050730.4279,0.0687,Computer and mathematical,"software developers, applications and systems software",0.0340
+3600,16.5120,19.1944,-0.4011,15.9657,1046813.7927,-0.2302,Healthcare support,"nursing, psychiatric, and home health aides",-0.0307
+2540,24.7718,-2.4245,-0.6492,-0.3643,1025203.1013,0.0129,Educational instruction and library,teacher assistants,-0.0005
+4220,13.4265,-15.0152,-0.6680,-15.7885,945457.3241,0.3205,Building and grounds cleaning and maintenance,janitors and building cleaners,0.0174
+5400,39.9288,-13.1445,1.0233,-12.8027,909967.9798,-0.3860,Office and administrative support,receptionists and information clerks,-0.0081
+4600,18.9932,7.1202,-0.5237,8.3831,773956.0527,-0.0964,Personal care and service,childcare workers,-0.0086
+8965,25.8995,-10.5834,0.1863,2.0948,693071.2515,-0.0028,Production,"miscellaneous production workers, including semiconductor processors",0.0020
+4030,12.4086,30.2026,-0.5571,30.6704,682868.9129,-0.3734,Food preparation and serving related,food preparation workers,-0.0386
+4250,13.9324,-6.2542,-0.4626,-5.5133,678631.1632,0.0491,Building and grounds cleaning and maintenance,grounds maintenance workers,0.0030
+5700,47.8471,-10.5361,1.1282,-10.7999,653756.3516,-0.2502,Office and administrative support,secretaries and administrative assistants,-0.0078
+800,48.8795,0.8061,0.1307,19.0161,652933.1701,0.0441,Business and financial operations,accountants and auditors,0.0049
+5860,44.4202,16.1971,1.1010,14.8903,651239.4546,0.3110,Office and administrative support,"office clerks, general",0.0172
+4610,16.3927,7.2556,-0.8062,-0.0811,623484.5781,0.0146,Personal care and service,personal care aides,-0.0087
+7750,25.0591,-26.7208,0.1036,-9.3248,605377.5912,-0.0220,Production,miscellaneous assemblers and fabricators,0.0069
+3420,24.7554,15.5928,-0.4143,15.8050,581870.0850,-0.1128,Healthcare practitioners and technical,health practitioner support technologists and  technicians,-0.0057
+2340,30.9133,11.2153,-0.6396,19.8317,573222.8316,-0.2410,Educational instruction and library,other teachers and instructors,0.0006
+5510,22.0836,11.8817,-0.3946,14.0108,567411.2204,-0.1089,Office and administrative support,couriers and messengers,-0.0067
+310,35.5108,16.2223,0.4738,15.4453,555890.1327,0.1015,Management,food service managers,0.0055
+6230,21.2958,4.3136,0.2665,0.4935,536653.0340,0.0030,Construction and extraction,carpenters,-0.0035
+3930,28.4546,3.5803,0.4595,-6.3414,502754.4578,-0.0465,Protective service,security guards and gaming surveillance officers,-0.0006
+6355,24.3049,15.9128,-0.0971,9.1970,497434.6080,-0.0260,Construction and extraction,electricians,-0.0054
+7200,21.4139,10.6195,-0.2187,6.4567,480227.9173,-0.0215,"Installation, maintenance, and repair",automotive service technicians and mechanics,-0.0056
+9640,20.0069,-11.0053,0.2740,-8.7168,474848.8054,-0.0369,Transportation and material moving,"packers and packagers, hand",0.0035
+2300,24.0439,-25.9809,-0.5682,-16.8135,434934.9092,0.1287,Educational instruction and library,preschool and kindergarten teachers,0.0057
+2630,47.8989,5.7333,0.5735,10.2022,421699.1223,0.0632,"Arts, design, entertainment, sports, and media",designers,0.0065
+3645,26.9726,28.4747,-0.3266,15.3185,417852.5429,-0.0749,Healthcare support,medical assistants,-0.0041
+4010,34.8342,2.8200,0.9557,8.6686,403905.1477,0.0731,Food preparation and serving related,first-line supervisors of food preparation and serving workers,0.0011
+4150,24.6108,9.2450,0.3395,9.2128,399753.9829,0.0486,Food preparation and serving related,"hosts and hostesses, restaurant, lounge, and coffee shop",-0.0027
+4230,11.4039,27.6012,-0.5530,22.9901,387016.4471,-0.1652,Building and grounds cleaning and maintenance,maids and housekeeping cleaners,-0.0214
+20,34.2236,-23.5315,-0.3159,-18.8138,378685.8482,0.0760,Management,general and operations managers,-0.0029
+2000,29.6642,1.5238,0.0050,11.2298,374141.0099,-0.0210,Community and social service,counselors,-0.0001
+630,42.2284,-22.5934,0.2763,-14.3548,367606.4904,-0.0668,Business and financial operations,human resources workers,-0.0080
+50,40.3755,4.6575,-0.1983,17.9561,361400.6154,-0.0485,Management,marketing and sales managers,0.0028
+1107,53.6144,16.2605,0.5581,18.3215,361043.1846,0.1162,Computer and mathematical,"computer occupations, all other",0.0157
+9600,12.4628,3.9907,-0.6048,13.7244,351990.2640,-0.0878,Transportation and material moving,industrial truck and tractor operators,-0.0044
+6050,18.5017,9.4300,-0.0894,15.1050,343631.7351,-0.0144,"Farming, fishing, and forestry","miscellaneous agricultural workers, including animal breeders",-0.0049
+710,47.8196,-22.9059,0.2766,-12.9074,341741.7541,-0.0415,Business and financial operations,management analysts,-0.0111
+4350,23.4152,8.6176,-0.2105,16.4984,337780.8769,0.0003,Personal care and service,nonfarm animal caretakers,-0.0026
+9610,15.3096,-8.8155,-0.2633,-0.8740,331367.8615,-0.0013,Transportation and material moving,cleaners of vehicles and equipment,0.0025
+5120,41.6462,-15.0481,0.7473,-21.2048,330086.9691,-0.1653,Office and administrative support,"bookkeeping, accounting, and auditing clerks",-0.0042
+8740,33.0035,3.4549,0.2195,10.2479,329846.0661,0.0394,Production,"inspectors, testers, sorters, samplers, and weighers",0.0006
+5610,37.5733,-48.0780,1.0426,-48.2304,327987.5003,-0.5321,Office and administrative support,"shipping, receiving, and traffic clerks",-0.0102
+4850,40.2840,7.4886,-0.0890,21.8593,325235.9687,-0.0277,Sales and related,"sales representatives, wholesale and manufacturing",0.0034
+4510,16.1747,11.0746,-0.9035,2.0225,317233.2110,-0.0153,Personal care and service,"hairdressers, hairstylists, and cosmetologists",-0.0061
+7315,21.7407,5.8586,-0.3488,8.9130,314171.4303,-0.0310,"Installation, maintenance, and repair","heating, air conditioning, and refrigeration mechanics and installers",-0.0023
+4040,19.7804,-14.6619,-0.5951,-16.3446,310192.0371,0.1074,Food preparation and serving related,bartenders,0.0034
+8140,20.2805,20.8821,-0.2296,20.7970,308428.1477,-0.0429,Production,"welding, soldering, and brazing workers",-0.0070
+735,51.6752,-17.7162,0.9267,-4.6961,301889.9605,-0.0800,Business and financial operations,market research analysts and marketing specialists,-0.0088
+6440,21.7085,36.7319,-0.0075,34.5859,300789.0381,-0.0032,Construction and extraction,"pipelayers, plumbers, pipefitters, and steamfitters",-0.0097
+220,43.5993,-11.8130,0.6499,-11.9484,300298.4192,-0.0715,Management,construction managers,-0.0032
+1530,47.8185,-14.4815,-0.0418,-4.2810,287251.4350,0.0056,Architecture and engineering,"miscellaneous engineers, including nuclear engineers",-0.0053
+4710,34.7564,-28.1225,-0.1858,-27.0305,286324.2233,0.0493,Sales and related,first-line supervisors of non-retail sales workers,-0.0030
+3640,22.2332,-6.9769,-0.4113,-9.6479,283306.2229,0.0487,Healthcare support,dental assistants,0.0008
+4840,44.5711,10.6951,0.4551,17.8644,282843.9358,0.0704,Sales and related,"sales representatives, services, all other",0.0054
+1360,44.5820,-7.7364,-0.2649,8.9124,280354.6505,-0.0187,Architecture and engineering,civil engineers,-0.0016
+4620,29.2557,-12.6322,-0.2070,-4.1066,278194.3976,0.0102,Personal care and service,recreation and fitness workers,0.0002
+2320,32.8370,-15.2554,-0.4149,3.1741,270184.9072,-0.0091,Educational instruction and library,secondary school teachers,-0.0008
+120,42.6490,-1.1507,0.0858,6.1703,269138.9647,-0.0024,Management,financial managers,0.0007
+5940,58.5393,-5.9378,1.9225,2.7456,263965.2381,0.0742,Office and administrative support,"miscellaneous office and administrative support workers, including desktop publishers",-0.0018
+2010,29.3098,-17.9897,-0.4808,-2.6278,256884.6864,0.0103,Community and social service,social workers,0.0003
+4130,8.5953,-14.8235,-0.9766,-13.9424,248323.4991,0.0947,Food preparation and serving related,"miscellaneous food preparation and serving related workers, including dining room and cafeteria attendants and bartender helpers",0.0058
+4920,40.3360,-19.9524,-0.2104,-17.9145,244777.7099,0.0344,Sales and related,real estate brokers and sales agents,-0.0039
+1240,52.6268,-18.3456,0.8264,-19.1267,239031.0712,-0.1192,Computer and mathematical,"miscellaneous mathematical science occupations, including mathematicians and statisticians",-0.0076
+8220,25.3314,-45.2130,0.2668,-24.2922,237864.0200,-0.0511,Production,"miscellaneous metal workers and plastic workers, including multiple machine tool setters",0.0046
+1460,49.8442,-28.2960,0.0909,6.5039,237731.0608,-0.0059,Architecture and engineering,mechanical engineers,-0.0110
+6420,16.0918,-45.2919,-0.0268,-45.6178,234691.8560,0.0239,Construction and extraction,painters and paperhangers,0.0131
+2720,31.2357,23.0153,-0.2326,32.6033,234447.3131,-0.0474,"Arts, design, entertainment, sports, and media","athletes, coaches, umpires, and related workers",0.0006
+1965,40.2300,6.5651,-0.0229,5.0553,234348.7401,0.0040,"Life, physical, and social science","miscellaneous life, physical, and social science technicians, including social science research assistants",0.0022
+1050,49.2110,-4.3032,0.4786,-6.5799,233618.2874,-0.0254,Computer and mathematical,computer support specialists,-0.0004
+7340,23.7268,12.1899,-0.1219,4.8479,230143.0107,-0.0048,"Installation, maintenance, and repair","maintenance and repair workers, general",-0.0022
+840,51.3504,-1.6917,0.5953,20.3331,228712.8735,0.0846,Business and financial operations,financial analysts,0.0008
+5000,39.3508,12.9462,0.3423,11.7799,225571.9270,0.0314,Office and administrative support,first-line supervisors of office and administrative support workers,0.0032
+3400,13.6559,-26.1479,-1.6377,-31.6297,216321.1773,0.3547,Healthcare practitioners and technical,emergency medical technicians and paramedics,0.0077
+3850,23.6449,41.3780,-0.9324,39.2044,216199.4526,-0.2525,Protective service,police officers,-0.0060
+4810,38.5840,-16.2694,-0.0159,-3.2404,212825.5402,0.0164,Sales and related,insurance sales agents,-0.0022
+3500,17.9841,4.6193,-0.8576,-7.9521,207199.4354,0.0189,Healthcare practitioners and technical,licensed practical and licensed vocational nurses,-0.0019
+410,39.6872,-41.9148,-0.0152,-38.0954,206204.8255,0.0103,Management,"property, real estate, and community association managers",-0.0071
+4430,24.4059,19.8263,-0.6171,24.0999,199361.8829,-0.0939,Personal care and service,miscellaneous entertainment attendants and related workers,-0.0025
+1760,44.3228,-55.3524,0.3639,-50.8568,191802.7489,-0.1121,"Life, physical, and social science","physical scientists, all other",-0.0133
+2145,50.8841,39.3415,1.0495,37.2305,189977.4204,0.2130,Legal,paralegals and legal assistants,0.0159
+4140,8.9593,-6.6414,-0.5898,-3.8560,189470.8878,0.0143,Food preparation and serving related,dishwashers,0.0012
+5160,31.4639,11.9609,0.4094,18.8759,186049.0796,0.0013,Office and administrative support,tellers,0.0003
+4000,32.8188,9.8936,0.0650,-4.9018,185039.6327,-0.0057,Food preparation and serving related,chefs and head cooks,0.0006
+6320,16.4326,-5.0535,-0.2160,-3.3033,178611.6597,0.0041,Construction and extraction,"construction equipment operators except paving, surfacing, and tamping equipment operators",0.0004
+7800,28.1479,16.3842,0.3113,17.8957,175425.6073,0.0310,Production,bakers,-0.0007
+7700,36.3683,21.3236,0.2463,32.2318,174488.8630,0.0439,Production,first-line supervisors of production and operating workers,0.0025
+4520,13.9426,33.1956,-2.3260,11.7505,173681.9256,-0.1512,Personal care and service,miscellaneous personal appearance workers,-0.0098
+7210,17.1170,5.4297,-0.5907,8.6474,169748.9678,-0.0250,"Installation, maintenance, and repair",bus and truck mechanics and diesel engine specialists,-0.0019
+3300,27.3447,19.9018,-0.9369,21.6086,169079.9517,-0.1150,Healthcare practitioners and technical,clinical laboratory technologists and technicians,-0.0011
+3320,27.2547,15.3856,-1.0486,14.5110,168896.3010,-0.0835,Healthcare practitioners and technical,diagnostic related technologists and technicians,-0.0009
+230,38.6046,-20.4187,0.2338,-9.6361,167142.7496,-0.0119,Management,education administrators,-0.0023
+8800,22.5667,-85.4934,0.5338,-76.9500,165837.4694,-0.2318,Production,packaging and filling machine operators and tenders,0.0098
+7330,30.1025,-3.5818,0.1068,1.8882,163749.3564,0.0005,"Installation, maintenance, and repair",industrial and refractory machinery mechanics,0.0000
+5110,39.1940,-33.2493,0.7200,-32.1244,159268.1551,-0.1417,Office and administrative support,billing and posting clerks,-0.0040
+6200,40.2740,-11.4924,1.2352,-18.2537,158997.4149,-0.1132,Construction and extraction,first-line supervisors of construction trades and extraction workers,-0.0012
+1430,47.0041,-25.9679,-0.1966,-5.9226,157258.8407,0.0034,Architecture and engineering,"industrial engineers, including health and safety",-0.0056
+4120,18.0847,9.5599,-0.3678,7.3550,157148.6753,-0.0377,Food preparation and serving related,"food servers, nonrestaurant",-0.0023
+1550,41.7190,1.2889,0.3694,3.4113,156934.7939,-0.0170,Architecture and engineering,"engineering technicians, except drafters",0.0008
+1006,49.6832,27.5973,0.2535,33.4792,155576.9530,0.0367,Computer and mathematical,computer systems analysts,0.0089
+3955,25.1304,26.1186,-0.1085,21.6964,153039.3203,-0.0383,Protective service,"lifeguards and other recreational, and all other protective service workers",-0.0022
+110,43.4226,-108.2881,-0.3289,-100.9851,152561.3342,0.1581,Management,computer and information systems managers,-0.0200
+205,37.3402,9.4110,0.2437,26.1697,150821.8195,0.0161,Management,"farmers, ranchers, and other agricultural managers",0.0013
+1010,64.7286,-11.0602,1.1173,-15.1158,147997.4059,-0.0782,Computer and mathematical,computer programmers,-0.0037
+2100,36.3592,31.5832,0.5842,40.1354,146837.0859,0.1052,Legal,"lawyers, and judges, magistrates, and other judicial workers",0.0030
+3800,22.2204,1.4149,-0.3652,-0.5217,145983.3063,0.0065,Protective service,"bailiffs, correctional officers, and jailers",-0.0005
+5520,43.1720,7.7496,1.3775,11.3307,142176.6446,0.0664,Office and administrative support,dispatchers,0.0019
+2600,46.0053,-18.5535,0.6507,-22.7818,140710.2022,-0.0680,"Arts, design, entertainment, sports, and media",artists and related workers,-0.0032
+2200,39.2566,-14.7920,0.1647,-4.6648,138090.6291,-0.0034,Educational instruction and library,postsecondary teachers,-0.0013
+7810,13.4646,2.0507,-0.5012,17.1703,137152.8475,-0.0625,Production,"butchers and other meat, poultry, and fish processing workers",-0.0012
+910,40.7990,-80.2601,-0.2511,-68.6898,136651.3279,0.0737,Business and financial operations,credit counselors and loan officers,-0.0105
+740,49.4057,80.7685,0.7218,85.0378,131610.6722,0.2577,Business and financial operations,"business operations specialists, all other",0.0201
+9000,36.4379,-44.3451,0.5265,-46.6198,130417.9214,-0.1199,Transportation and material moving,supervisors of transportation and material moving workers,-0.0031
+3740,12.0830,44.7157,-1.6594,32.1654,129083.5675,-0.2190,Protective service,firefighters,-0.0107
+350,41.7377,23.0370,0.3546,28.1510,128026.5292,0.0467,Management,medical and health services managers,0.0037
+2016,34.1256,-37.3800,-0.0502,-32.0823,127538.8272,0.0077,Community and social service,social and human service assistants,-0.0016
+420,40.0605,0.7015,0.2752,14.7789,126308.3553,0.0200,Management,social and community service managers,0.0005
+3245,28.1098,50.6341,-0.1599,63.2209,124544.1062,-0.0471,Healthcare practitioners and technical,"other therapists, including exercise physiologists",-0.0013
+4820,34.8573,-59.3785,-0.5056,-58.2204,118687.1719,0.1110,Sales and related,"securities, commodities, and financial services sales agents",-0.0029
+9140,20.7796,41.8825,-0.7566,17.2480,116962.8424,-0.0501,Transportation and material moving,taxi drivers and chauffeurs,-0.0047
+1007,50.5694,2.1387,0.9325,11.4392,114298.5572,0.0258,Computer and mathematical,information security analysts,0.0012
+2330,28.6385,-17.0595,-0.3650,-8.6486,111707.3513,0.0182,Educational instruction and library,special education teachers,0.0002
+3060,27.6043,-6.5529,-0.5754,-3.9877,110692.6842,0.0072,Healthcare practitioners and technical,physicians and surgeons,0.0001
+1030,56.0821,-41.7962,1.0898,-28.1010,110349.0832,-0.1004,Computer and mathematical,web developers,-0.0104
+5840,46.4576,-5.9799,1.0700,-1.2692,108189.2667,-0.0313,Office and administrative support,insurance claims and policy processing clerks,-0.0004
+7630,30.2616,-32.0817,0.4098,-38.5929,104618.5685,-0.0465,"Installation, maintenance, and repair","miscellaneous installation, maintenance, and repair workers, including wind turbine service technicians",-0.0000
+3050,32.1375,-63.5018,-0.5476,-52.1485,104155.8564,0.0914,Healthcare practitioners and technical,pharmacists,-0.0011
+7410,15.7724,-16.2589,-0.7942,-23.2479,103900.4775,0.0606,"Installation, maintenance, and repair",electrical power-line installers and repairers,0.0018
+6515,9.4920,69.9767,-0.4608,72.7361,100894.0737,-0.1100,Construction and extraction,roofers,-0.0145
+850,39.1886,78.0943,-0.4074,95.0888,100118.0428,-0.1384,Business and financial operations,personal financial advisors,0.0069
+8030,33.1691,38.6724,0.1911,42.5955,97099.1890,0.0241,Production,machinists,0.0011
+520,41.9645,-106.0075,0.2803,-106.4538,96652.4409,-0.1107,Business and financial operations,"wholesale and retail buyers, except farm products",-0.0110
+5550,24.9414,28.0603,-0.5370,25.6563,96473.4415,-0.0486,Office and administrative support,postal service mail carriers,-0.0015
+2910,33.1615,21.7779,-0.3419,18.5552,95854.0746,-0.0295,"Arts, design, entertainment, sports, and media",photographers,0.0007
+725,43.6884,26.7788,0.2695,33.7218,94430.1194,0.0231,Business and financial operations,"meeting, convention, and event planners",0.0036
+3655,26.3079,-1.7612,-0.2618,-9.8724,93849.8972,0.0110,Healthcare support,"healthcare support workers, all other, including medical equipment preparers",-0.0001
+700,46.8847,-26.2965,0.9271,-17.8462,92862.2316,-0.0477,Business and financial operations,logisticians,-0.0034
+1410,49.6033,12.4967,-0.2402,16.7728,90945.3818,-0.0110,Architecture and engineering,electrical and electronics engineers,0.0027
+2920,41.5206,-31.8584,0.1121,-35.3460,90415.0547,0.0144,"Arts, design, entertainment, sports, and media","television, video, and motion picture camera operators and editors",-0.0028
+5350,36.7739,-101.4613,0.4442,-98.0052,90216.8861,-0.1232,Office and administrative support,correspondence clerks and order clerks,-0.0055
+540,46.0724,2.9187,0.6350,12.7296,90003.6197,0.0249,Business and financial operations,"claims adjusters, appraisers, examiners, and investigators",0.0009
+4340,21.0030,-123.9984,-0.6082,-115.6716,89399.4165,0.2309,Personal care and service,animal trainers,0.0094
+5410,40.7799,27.4598,1.1788,20.4546,88989.8503,0.0699,Office and administrative support,reservation and transportation ticket agents and travel clerks,0.0027
+3648,24.2166,15.6362,-0.7229,29.6133,88810.5040,-0.0625,Healthcare support,veterinary assistants and laboratory animal caretakers,-0.0010
+3649,23.8159,-22.0806,-0.2688,-22.4848,87097.4734,0.0026,Healthcare support,phlebotomists,0.0010
+2850,52.9556,-30.0326,1.1577,-22.3348,86869.1943,-0.0750,"Arts, design, entertainment, sports, and media",writers and authors,-0.0050
+7260,12.1694,2.4333,-0.5318,18.4308,86719.2105,-0.0232,"Installation, maintenance, and repair","miscellaneous vehicle and mobile equipment mechanics, installers, and repairers",-0.0009
+160,42.0269,3.6318,0.6253,1.6473,85301.2547,0.0016,Management,"transportation, storage, and distribution managers",0.0007
+7220,21.8697,41.2040,-0.2611,41.9562,85282.5377,-0.0296,"Installation, maintenance, and repair",heavy vehicle and mobile equipment service technicians and mechanics,-0.0030
+3540,33.5805,9.1150,0.0621,24.6592,83242.8394,0.0039,Healthcare practitioners and technical,other healthcare practitioners and technical occupations,0.0003
+5300,35.1239,-6.2078,0.5802,-4.2057,81359.6085,-0.0105,Office and administrative support,"hotel, motel, and resort desk clerks",-0.0001
+4210,34.8312,-6.1379,0.4760,-8.4303,80888.0625,-0.0108,Building and grounds cleaning and maintenance,"first-line supervisors of landscaping, lawn service, and groundskeeping workers",-0.0001
+5810,37.9507,19.4593,0.7748,21.5247,80707.0762,0.0425,Office and administrative support,data entry keyers,0.0014
+3310,17.7987,-10.9044,-1.7901,-12.0236,80634.6051,0.0585,Healthcare practitioners and technical,dental hygienists,0.0007
+3620,19.5147,5.7611,-1.6131,19.2317,79816.4460,-0.0662,Healthcare support,physical therapist assistants and aides,-0.0007
+9360,18.8394,-16.7618,-0.2804,-7.7675,78656.9825,0.0057,Transportation and material moving,automotive and watercraft service attendants,0.0011
+2160,45.5583,-55.1116,0.8081,-53.8843,78285.5811,-0.1203,Legal,miscellaneous legal support workers,-0.0059
+8810,19.0069,-3.6025,0.5644,-0.9674,77197.9857,-0.0063,Production,painting workers,0.0000
+5310,41.0608,3.1705,0.8550,0.3889,76686.2509,-0.0077,Office and administrative support,"interviewers, except eligibility and loan",0.0005
+530,41.9645,24.1636,-0.1422,31.6222,76443.2992,-0.0056,Business and financial operations,"purchasing agents, except wholesale, retail, and farm products",0.0023
+2750,28.3499,-45.9089,-0.8141,-46.1335,76119.6807,0.0901,"Arts, design, entertainment, sports, and media","musicians, singers, and related workers",0.0006
+1540,52.2718,-51.4487,1.2329,-46.6840,74852.7251,-0.1950,Architecture and engineering,drafters,-0.0075
+3160,27.2029,56.0138,-0.7403,68.6689,74627.9387,-0.1263,Healthcare practitioners and technical,physical therapists,-0.0013
+1560,46.7795,-17.5089,1.9534,-10.8905,74436.4390,-0.0481,Architecture and engineering,surveying and mapping technicians,-0.0016
+1320,52.0758,15.5515,0.5361,10.6658,73768.7246,0.0134,Architecture and engineering,aerospace engineers,0.0029
+5600,41.9182,-9.1857,0.2324,-6.6414,73409.1394,0.0152,Office and administrative support,"production, planning, and expediting clerks",-0.0005
+4540,32.9750,-86.5606,-0.3628,-72.6597,72923.4593,0.0376,Personal care and service,tour and travel guides,-0.0016
+4500,19.3615,-14.2936,-0.1365,-18.9222,71572.3598,0.0061,Personal care and service,barbers,0.0008
+3230,30.2676,15.4711,-0.1152,44.8229,71098.7922,-0.0163,Healthcare practitioners and technical,speech-language pathologists,0.0000
+10,44.2290,5.8607,-0.1786,13.5149,70848.4851,-0.0068,Management,chief executives and legislators,0.0009
+7020,31.7418,-4.9789,0.0162,-1.0396,69436.7689,0.0092,"Installation, maintenance, and repair",radio and telecommunications equipment installers and repairers,-0.0000
+5330,39.7746,-288.8357,0.5135,-279.4783,69141.6585,-0.3772,Office and administrative support,loan interviewers and clerks,-0.0179
+2825,47.4261,-70.7001,0.7736,-48.2503,69125.4881,-0.1073,"Arts, design, entertainment, sports, and media",public relations specialists,-0.0076
+5165,26.3762,22.2743,-0.8321,15.6572,68449.5580,-0.0372,Office and administrative support,"financial clerks, all other",-0.0006
+2550,50.4511,-29.6394,1.2903,-17.5194,65875.5485,-0.0646,Educational instruction and library,"other education, training, and library workers",-0.0033
+7420,16.3928,-6.2930,-0.9088,-10.4241,65728.3405,0.0193,"Installation, maintenance, and repair",telecommunications line installers and repairers,0.0002
+565,42.8182,-14.6618,0.2760,-6.0991,64203.7906,-0.0028,Business and financial operations,compliance officers,-0.0009
+940,53.6120,-32.5047,1.3299,-34.6191,64072.8075,-0.1252,Business and financial operations,tax preparers,-0.0041
+8950,16.6197,1.5688,-0.5755,-1.5005,63875.3495,0.0190,Production,helpers--production workers,-0.0004
+2710,39.7141,38.5951,-0.2508,50.7834,63824.8592,-0.0318,"Arts, design, entertainment, sports, and media",producers and directors,0.0024
+4800,46.8575,-45.0932,0.4035,-29.8247,63239.0312,-0.0462,Sales and related,advertising sales agents,-0.0042
+6765,23.9245,-17.8851,0.2986,-18.5620,62299.7931,-0.0123,Construction and extraction,"miscellaneous construction workers, including solar photovoltaic installers, septic tank servicers and sewer pipe cleaners",0.0005
+8300,19.8532,-52.4848,0.1012,-46.7608,62050.9155,0.0034,Production,laundry and dry-cleaning workers,0.0030
+2040,24.6603,-36.8236,-1.4793,-20.5161,61934.2764,0.0567,Community and social service,clergy,0.0011
+3110,21.9191,-3.7641,-0.4511,15.6708,61011.4180,-0.0179,Healthcare practitioners and technical,physician assistants,0.0000
+4750,36.7572,45.2688,1.2605,47.1053,60032.9727,0.1187,Sales and related,parts salespersons,0.0018
+1105,44.0778,-21.8367,-0.0441,-19.7806,59834.1284,0.0002,Computer and mathematical,network and computer systems administrators,-0.0014
+860,52.3671,-105.3240,1.2448,-74.9991,58441.9364,-0.1838,Business and financial operations,insurance underwriters,-0.0125
+4740,38.8040,18.4677,0.8901,11.0625,58300.6930,0.0179,Sales and related,counter and rental clerks,0.0010
+600,47.5789,12.1209,0.8441,19.4476,56929.4823,0.0241,Business and financial operations,cost estimators,0.0015
+1350,43.9375,-9.5810,0.3125,4.3756,56722.0388,0.0022,Architecture and engineering,chemical engineers,-0.0005
+6600,11.1397,-30.7559,-0.9108,-20.5845,54436.9399,0.0314,Construction and extraction,"helpers, construction trades",0.0027
+3646,57.8688,-60.6886,0.4054,-39.3538,54161.2193,-0.0283,Healthcare support,medical transcriptionists,-0.0081
+6220,14.3352,-56.6526,-0.0521,-67.2767,54138.3367,0.0013,Construction and extraction,"brickmasons, blockmasons, stonemasons, and reinforcing iron and rebar workers",0.0043
+1300,46.1514,30.3003,0.3179,45.9684,53674.9460,0.0258,Architecture and engineering,"architects, except naval",0.0027
+6520,24.8254,17.4988,0.0703,16.9971,52774.2429,-0.0011,Construction and extraction,sheet metal workers,-0.0006
+7720,24.3341,22.9383,-0.1946,29.7850,52538.4293,-0.0089,Production,"electrical, electronics, and electromechanical assemblers",-0.0008
+3150,24.6666,31.5708,-0.8637,49.8843,50999.4085,-0.0697,Healthcare practitioners and technical,occupational therapists,-0.0009
+6330,10.8443,-17.0892,-0.4665,-15.2579,50860.7533,0.0133,Construction and extraction,"drywall installers, ceiling tile installers, and tapers",0.0013
+7150,14.6802,52.0675,-0.4683,46.3735,50584.3372,-0.0417,"Installation, maintenance, and repair",automotive body and related repairers,-0.0041
+2900,39.2635,-16.6684,-0.4166,-9.7543,49967.0985,0.0168,"Arts, design, entertainment, sports, and media","broadcast and sound engineering technicians and radio operators, and media and communication equipment workers, all other",-0.0006
+7010,35.7339,6.3481,-0.1002,1.4066,49793.4638,-0.0061,"Installation, maintenance, and repair","computer, automated teller, and office machine repairers",0.0003
+4320,36.4988,-135.0803,-0.3844,-146.2064,49165.9099,0.0630,Personal care and service,first-line supervisors of personal service workers,-0.0039
+6240,13.2299,-107.6783,-0.6723,-116.8515,48800.6110,0.1080,Construction and extraction,"carpet, floor, and tile installers and finishers",0.0082
+3535,33.8052,3.1374,-0.1318,-2.5985,48676.2942,0.0005,Healthcare practitioners and technical,miscellaneous health technologists and technicians,0.0001
+5540,29.9524,-120.6177,-0.0032,-126.0220,47538.5843,-0.0178,Office and administrative support,postal service clerks,0.0001
+1220,51.2853,-36.3016,0.6894,-24.1499,47521.8376,-0.0385,Computer and mathematical,operations research analysts,-0.0031
+2860,55.7336,-67.5691,1.5157,-74.2502,47480.5168,-0.1650,"Arts, design, entertainment, sports, and media",miscellaneous media and communication workers,-0.0074
+7000,34.9012,-52.1431,0.1289,-54.2142,47150.6165,-0.0178,"Installation, maintenance, and repair","first-line supervisors of mechanics, installers, and repairers",-0.0010
+5260,38.1527,7.3221,0.5253,0.4425,46776.8585,-0.0068,Office and administrative support,file clerks,0.0004
+7900,36.4638,-61.0613,0.5155,-45.7135,45731.0985,-0.0382,Production,computer control programmers and operators,-0.0016
+136,41.2690,-50.7227,0.0247,-38.0373,45082.9213,-0.0023,Management,human resources managers,-0.0022
+9030,22.8837,42.8315,-2.4108,60.4522,44931.1547,-0.2192,Transportation and material moving,aircraft pilots and flight engineers,-0.0014
+1200,45.9027,-92.4920,0.5557,-70.8520,44882.7244,-0.0586,Computer and mathematical,actuaries,-0.0059
+1005,51.8074,-99.2279,0.5850,-76.5475,44837.0698,-0.0388,Computer and mathematical,computer and information research scientists,-0.0088
+9720,20.4411,1.2715,0.7010,-9.4275,44293.7221,-0.0096,Transportation and material moving,refuse and recyclable material collectors,-0.0002
+7840,27.8560,4.0501,0.4202,12.7834,44177.7422,-0.0135,Production,food batchmakers,-0.0001
+8760,21.5985,-59.7736,-0.5998,-60.8854,44173.9727,0.0513,Production,"medical, dental, and ophthalmic laboratory technicians",0.0020
+1820,29.6321,-12.3623,0.1977,0.8552,43886.1313,0.0003,"Life, physical, and social science",psychologists,0.0000
+7140,20.3416,40.1379,-1.1762,30.8014,43825.4922,-0.0469,"Installation, maintenance, and repair",aircraft mechanics and service technicians,-0.0018
+5630,27.5897,-11.3261,-0.1087,30.2955,43790.7988,-0.0056,Office and administrative support,"weighers, measurers, checkers, and samplers, recordkeeping",0.0001
+2760,34.9591,-55.9004,0.7248,-64.0875,43784.7316,-0.0637,"Arts, design, entertainment, sports, and media","entertainers and performers, sports and related workers, all other",-0.0010
+9120,19.6413,42.7331,-0.7888,33.3116,43038.3208,-0.0365,Transportation and material moving,bus drivers,-0.0020
+650,47.9216,37.7305,1.1030,49.7051,41869.4785,0.0592,Business and financial operations,training and development specialists,0.0029
+4640,28.2913,-16.1660,0.3668,6.5436,41126.5733,0.0039,Personal care and service,residential advisors,0.0001
+5360,47.1098,-6.5861,1.1662,8.0721,40772.0497,0.0188,Office and administrative support,"human resources assistants, except payroll and timekeeping",-0.0002
+4200,34.0854,62.0226,0.4346,59.8170,39506.4683,0.0294,Building and grounds cleaning and maintenance,first-line supervisors of housekeeping and janitorial workers,0.0009
+4240,23.7835,-66.0758,0.0844,-69.7109,39338.8578,-0.0039,Building and grounds cleaning and maintenance,pest control workers,0.0015
+726,45.9325,16.4067,0.2964,31.2642,39283.6358,0.0076,Business and financial operations,fundraisers,0.0012
+8320,17.9499,-110.7342,-0.0232,-107.1987,39084.6350,0.0076,Production,sewing machine operators,0.0049
+2830,50.8046,-374.2080,1.0136,-364.5842,37963.8826,-0.4692,"Arts, design, entertainment, sports, and media",editors,-0.0274
+1920,38.4415,-23.7655,0.3033,-13.6052,37742.6620,-0.0073,"Life, physical, and social science",chemical technicians,-0.0006
+6400,17.2850,-10.7604,0.5172,-4.0769,37572.6873,-0.0214,Construction and extraction,insulation workers,0.0003
+5420,41.2817,-10.0874,0.1197,-9.8534,37264.8094,0.0043,Office and administrative support,"information and record clerks, all other",-0.0003
+5140,42.5942,1.8687,0.0044,5.9813,37076.7519,0.0006,Office and administrative support,payroll and timekeeping clerks,0.0002
+7950,23.5573,43.6953,0.2481,66.2336,36326.0818,0.0189,Production,"machine tool cutting setters, operators, and tenders, metal and plastic",-0.0011
+8620,24.1743,-107.6100,-0.6774,-96.1876,35752.7398,0.0801,Production,water and wastewater treatment plant and system operators,0.0021
+1740,48.0729,18.9375,0.4600,40.2195,35449.3875,0.0226,"Life, physical, and social science",environmental scientists and geoscientists,0.0013
+4530,36.5674,-19.7800,0.9966,-45.9061,35268.7858,-0.0486,Personal care and service,"baggage porters, bellhops, and concierges",-0.0003
+1720,40.3563,22.3900,-0.9379,26.5200,35250.2286,-0.0287,"Life, physical, and social science",chemists and materials scientists,0.0009
+8540,20.7561,-170.9870,0.4085,-117.3203,35117.9364,-0.0488,Production,"woodworking machine setters, operators, and tenders, except sawing",0.0053
+830,45.4073,-38.3435,-0.2132,-2.3786,35079.5679,0.0064,Business and financial operations,credit analysts,-0.0018
+9050,16.3697,-0.2311,-2.0319,-13.8611,35061.9139,0.0065,Transportation and material moving,flight attendants,-0.0001
+5320,31.6277,43.5019,-0.9299,40.8137,34980.9568,-0.0409,Office and administrative support,"library assistants, clerical",0.0002
+1610,41.6806,49.8344,0.1348,58.8660,34976.2506,0.0049,"Life, physical, and social science",biological scientists,0.0020
+8650,23.5361,-51.9741,0.1191,-35.7429,34600.6594,-0.0229,Production,"crushing, grinding, polishing, mixing, and blending workers",0.0011
+9750,19.3810,32.3636,-0.0879,44.8528,34156.3556,-0.0094,Transportation and material moving,"miscellaneous material moving workers, including mine shuttle car operators, and tank car, truck, and ship loaders",-0.0013
+3510,43.5242,-35.9489,0.4293,-44.3067,33469.4560,-0.0122,Healthcare practitioners and technical,medical records and health information technicians,-0.0014
+3258,28.8575,-326.7480,0.1125,-307.2490,33399.1497,-0.0122,Healthcare practitioners and technical,nurse practitioners and nurse midwives,0.0014
+140,37.8891,77.7449,-0.0597,72.3164,33330.1794,-0.0141,Management,industrial production managers,0.0020
+6940,12.8518,22.9244,-0.3894,20.2999,32903.7460,-0.0083,Construction and extraction,"miscellaneous extraction workers, including roof bolters and helpers",-0.0014
+1640,38.2018,-72.5454,-0.8932,-28.5238,32454.1702,0.0263,"Life, physical, and social science",conservation scientists and foresters,-0.0017
+950,49.8443,-27.5556,1.0703,-34.4159,32444.5115,-0.0331,Business and financial operations,"financial specialists, all other",-0.0015
+1650,38.1494,-71.2232,0.0883,-92.0529,31960.8983,-0.0079,"Life, physical, and social science","medical scientists, and life scientists, all other",-0.0016
+6840,16.8703,-9.5194,0.2075,-4.9079,31886.1768,0.0003,Construction and extraction,mining machine operators,0.0002
+3820,29.9845,-11.4748,-0.9000,-0.2240,31764.0869,0.0046,Protective service,detectives and criminal investigators,0.0000
+2025,36.8576,38.2117,0.2624,36.4502,31157.0376,0.0023,Community and social service,"miscellaneous community and social service specialists, including health educators and community health workers",0.0008
+8610,25.3820,-3.4088,-1.2127,7.6195,31122.1959,-0.0089,Production,stationary engineers and boiler operators,-0.0000
+1450,46.8932,-33.7371,0.4948,-16.1837,30586.0454,-0.0106,Architecture and engineering,materials engineers,-0.0015
+3630,17.7352,-1.6822,-1.4710,-12.1069,29902.4842,0.0175,Healthcare support,massage therapists,-0.0001
+4400,21.3640,-0.2005,-1.0900,-21.3816,29751.5731,0.0260,Personal care and service,gaming services workers,-0.0001
+9420,33.0474,71.8470,0.1509,69.5861,29678.8575,0.0105,Transportation and material moving,"miscellaneous transportation workers, including bridge and lock tenders and traffic technicians",0.0006
+8255,30.0336,24.6790,0.1032,32.5925,29433.9900,-0.0117,Production,printing press operators,-0.0000
+500,40.7555,-35.8551,0.0595,-9.8549,29273.4228,-0.0020,Business and financial operations,"agents and business managers of artists, performers, and athletes",-0.0009
+150,43.6800,67.7555,0.0202,82.7481,29007.3691,0.0042,Management,purchasing managers,0.0026
+7510,25.5139,-41.3320,-0.3629,-51.0844,29000.4910,0.0110,"Installation, maintenance, and repair","coin, vending, and amusement machine servicers and repairers",0.0005
+1060,58.7892,1.3894,0.2696,14.6085,28718.4049,0.0135,Computer and mathematical,database administrators,0.0004
+9350,21.2811,65.1090,-0.1129,43.8773,28549.9543,-0.0100,Transportation and material moving,parking lot attendants,-0.0017
+2800,40.2956,-66.6464,0.3390,-44.6883,28483.6089,-0.0202,"Arts, design, entertainment, sports, and media",announcers,-0.0017
+1910,32.5664,-30.2193,-0.8395,-24.4372,28118.8522,0.0261,"Life, physical, and social science",biological technicians,-0.0002
+5560,20.3944,-230.2954,-1.0328,-217.4140,27955.1140,0.2464,Office and administrative support,"postal service mail sorters, processors, and processing machine operators",0.0059
+3220,24.0763,-24.8645,-1.4086,-43.7316,27266.5198,0.0532,Healthcare practitioners and technical,respiratory therapists,0.0003
+6730,12.0217,-138.2453,-0.8309,-135.3568,27194.1164,0.1140,Construction and extraction,highway maintenance workers,0.0063
+6800,17.9088,-193.3336,0.2414,-198.8940,26999.9157,-0.0414,Construction and extraction,"derrick, rotary drill, and service unit operators, and roustabouts, oil, gas, and mining",0.0060
+6710,10.6699,35.6659,-0.6129,42.5991,26904.9262,-0.0216,Construction and extraction,fence erectors,-0.0019
+4940,43.8832,-50.3938,1.7591,-58.1474,26887.0988,-0.0916,Sales and related,telemarketers,-0.0016
+9630,18.8930,-66.0765,-0.7674,-47.5468,26757.2471,0.0337,Transportation and material moving,machine feeders and offbearers,0.0018
+60,44.8288,-47.7480,0.5624,-45.2309,26593.4667,-0.0220,Management,public relations and fundraising managers,-0.0016
+360,41.8994,-76.4480,0.5070,-37.1137,26243.0973,-0.0103,Management,natural sciences managers,-0.0021
+3030,42.5430,31.1022,0.6662,33.7075,26154.6304,0.0185,Healthcare practitioners and technical,dietitians and nutritionists,0.0011
+7130,29.9118,-89.2023,0.1330,-82.6809,25394.4046,-0.0081,"Installation, maintenance, and repair",security and fire alarm systems installers,0.0001
+8830,35.0945,-164.3984,-1.2595,-148.1942,25197.5132,0.1463,Production,photographic process workers and processing machine operators,-0.0019
+8710,18.2693,-7.5770,-0.3252,12.9319,25144.7710,-0.0041,Production,cutting workers,0.0001
+2430,38.3875,43.2646,0.5597,47.0597,24836.4431,0.0202,Educational instruction and library,librarians,0.0009
+6005,31.7030,-136.3021,0.3022,-135.3885,24645.7069,-0.0205,"Farming, fishing, and forestry","first-line supervisors of farming, fishing, and forestry workers",-0.0005
+6660,40.2232,-34.7632,-0.3195,-49.5382,24639.8712,0.0125,Construction and extraction,construction and building inspectors,-0.0007
+3647,26.0261,-35.2954,-0.6073,-57.9947,24537.9335,0.0359,Healthcare support,pharmacy aides,0.0003
+6250,9.5039,8.6422,-0.8744,3.1352,24353.1153,-0.0020,Construction and extraction,"cement masons, concrete finishers, and terrazzo workers",-0.0006
+340,41.0959,4.8453,0.0945,9.4631,24165.7243,-0.0105,Management,lodging managers,0.0002
+3910,37.1519,64.2748,-0.2726,56.3846,24052.1811,-0.0119,Protective service,private detectives and investigators,0.0011
+6700,22.2445,-33.4007,-0.1110,-51.6538,24042.2667,0.0108,Construction and extraction,elevator installers and repairers,0.0005
+5100,37.4657,56.8651,0.4062,59.5835,23931.4835,0.0207,Office and administrative support,bill and account collectors,0.0010
+4950,29.4106,164.8361,-0.0752,151.9949,23906.8168,-0.0059,Sales and related,"door-to-door sales workers, news and street vendors, and related workers",-0.0003
+1900,33.2988,-46.8739,0.5276,-39.5343,23744.8185,-0.0132,"Life, physical, and social science",agricultural and food science technicians,-0.0003
+2050,37.9591,-74.2500,0.0590,-59.9479,23706.8619,-0.0066,Community and social service,"directors, religious activities and education",-0.0012
+1860,48.7530,15.9829,1.1308,20.7030,22311.3296,0.0134,"Life, physical, and social science","miscellaneous social scientists, including survey researchers and sociologists",0.0008
+6740,14.4613,-146.5752,-0.2916,-135.9962,21829.8633,0.0261,Construction and extraction,rail-track laying and maintenance equipment operators,0.0047
+5850,25.5847,5.0141,-0.0796,-7.5885,21589.8851,0.0133,Office and administrative support,"mail clerks and mail machine operators, except postal service",-0.0001
+6530,13.8342,-10.5049,-0.1703,-23.1989,21368.8407,0.0114,Construction and extraction,structural iron and steel workers,0.0002
+4420,20.3279,64.0272,-0.4133,62.5669,20982.7908,-0.0190,Personal care and service,"ushers, lobby attendants, and ticket takers",-0.0013
+5220,47.1445,-41.2082,1.4173,-45.0231,20900.0260,-0.0680,Office and administrative support,"court, municipal, and license clerks",-0.0013
+2700,20.5713,16.4390,-0.8283,14.2724,20420.8759,-0.0090,"Arts, design, entertainment, sports, and media",actors,-0.0004
+6120,14.8037,-49.0143,-1.7416,-20.7272,20210.4184,0.0365,"Farming, fishing, and forestry",forest and conservation workers,0.0013
+5900,26.1443,-174.3652,0.6247,-167.6302,20046.9842,-0.1022,Office and administrative support,"office machine operators, except computer",0.0013
+8640,27.0895,-82.1451,0.4693,-75.2125,19073.6224,-0.0225,Production,"chemical processing machine setters, operators, and tenders",0.0004
+8920,18.8495,-86.3504,-0.8805,-86.9538,17686.8698,0.0286,Production,"molders, shapers, and casters, except metal and plastic",0.0016
+8500,23.6908,7.2589,0.1411,-5.6614,17388.4251,-0.0015,Production,cabinetmakers and bench carpenters,-0.0001
+7920,23.8149,-155.0237,-0.0017,-134.6357,17320.5918,-0.0065,Production,"extruding and drawing machine setters, operators, and tenders, metal and plastic",0.0016
+4900,32.9429,83.9086,1.1138,89.0485,17263.4238,0.0547,Sales and related,"models, demonstrators, and product promoters",0.0004
+3730,34.1746,-45.8134,-0.0482,-49.9367,17231.9242,-0.0043,Protective service,"first-line supervisors of protective service workers, all other",-0.0003
+3520,28.9936,-9.2429,-0.6546,-22.5194,17098.6500,0.0260,Healthcare practitioners and technical,"opticians, dispensing",0.0000
+2105,43.0641,-60.8993,0.7668,-27.1540,17085.8003,-0.0015,Legal,judicial law clerks,-0.0012
+7240,18.0134,26.0999,0.2583,32.2257,16889.1365,0.0041,"Installation, maintenance, and repair",small engine mechanics,-0.0006
+1340,47.6724,43.2508,0.9773,35.7608,16886.8757,0.0070,Architecture and engineering,biomedical and agricultural engineers,0.0013
+2400,36.1709,-10.8417,0.2194,-12.7387,16565.0111,-0.0119,Educational instruction and library,"archivists, curators, and museum technicians",-0.0001
+8350,15.5603,-80.0131,-1.9869,-63.5524,16473.4802,0.0682,Production,"tailors, dressmakers, and sewers",0.0017
+300,48.0921,-190.5703,-0.4198,-186.0960,16239.8369,0.0403,Management,architectural and engineering managers,-0.0051
+40,43.4114,-22.2796,0.3970,-13.3327,16000.2605,0.0005,Management,advertising and promotions managers,-0.0004
+6360,14.0166,-124.6052,0.0715,-156.2623,15885.3942,-0.0059,Construction and extraction,glaziers,0.0029
+1310,44.3677,-29.7789,-0.3444,6.3036,15751.4872,0.0039,Architecture and engineering,"surveyors, cartographers, and photogrammetrists",-0.0006
+640,50.2266,2.1187,0.2587,14.4652,15731.2064,-0.0003,Business and financial operations,"compensation, benefits, and job analysis specialists",0.0002
+9040,26.4816,4.8067,-1.5565,8.7224,15709.9644,-0.0072,Transportation and material moving,air traffic controllers and airfield operations specialists,-0.0000
+810,42.5357,-85.6232,-0.0138,-94.7171,15646.4750,-0.0040,Business and financial operations,appraisers and assessors of real estate,-0.0015
+7740,18.8363,-58.7395,-0.0011,-9.2530,15592.3915,0.0030,Production,structural metal fabricators and fitters,0.0009
+8530,20.1646,-282.3101,0.5798,-250.9067,15334.9741,-0.0709,Production,"sawing machine setters, operators, and tenders, wood",0.0041
+6130,18.3553,9.0975,-0.0390,15.1950,15079.0380,0.0112,"Farming, fishing, and forestry",logging workers,-0.0002
+5340,39.7277,-128.3450,0.6566,-79.2458,14799.1616,-0.0614,Office and administrative support,new accounts clerks,-0.0017
+510,41.9645,-109.6389,1.0091,-115.3994,14776.8157,-0.0743,Business and financial operations,"buyers and purchasing agents, farm products",-0.0017
+1800,52.0086,-28.7194,0.7827,-33.4960,14604.3571,-0.0139,"Life, physical, and social science",economists,-0.0008
+8630,28.3536,-11.1180,-0.1743,-13.6453,14592.3246,-0.0175,Production,miscellaneous plant and system operators,0.0000
+7320,22.1839,-63.3751,-0.3037,-76.0728,14448.0656,-0.0202,"Installation, maintenance, and repair",home appliance repairers,0.0007
+8100,18.1502,-104.9583,-1.1938,-75.3042,14429.8744,0.0410,Production,"model makers, patternmakers, and molding machine setters, metal and plastic",0.0017
+1400,49.6108,3.9554,-0.0462,2.2911,14253.7015,-0.0038,Architecture and engineering,computer hardware engineers,0.0002
+6820,20.6225,-10.4266,-0.6616,2.8186,14133.7335,-0.0018,Construction and extraction,"earth drillers, except oil and gas",0.0001
+9415,22.0090,25.6082,-0.6032,15.9619,13702.0752,-0.0044,Transportation and material moving,"transportation attendants, except flight attendants",-0.0003
+2740,19.2038,-44.9059,-0.3440,-14.6670,13358.2155,-0.0135,"Arts, design, entertainment, sports, and media",dancers and choreographers,0.0006
+5150,41.0852,-6.8468,0.1617,-9.9329,13292.0918,0.0023,Office and administrative support,procurement clerks,-0.0000
+5820,45.9257,-168.9276,0.7601,-173.5738,13055.5408,-0.0547,Office and administrative support,word processors and typists,-0.0032
+9310,29.6570,27.9094,-0.8921,19.5441,12764.1529,-0.0055,Transportation and material moving,ship and boat captains and operators,-0.0000
+820,45.8890,54.1130,-0.0211,76.8320,12715.2395,-0.0032,Business and financial operations,budget analysts,0.0011
+6040,25.8920,-23.1460,0.8367,-24.4551,12556.0997,-0.0120,"Farming, fishing, and forestry","graders and sorters, agricultural products",0.0001
+3250,26.6083,53.6937,-0.2155,69.5606,12536.2566,-0.0076,Healthcare practitioners and technical,veterinarians,-0.0002
+9110,13.4001,-21.3493,-0.5162,-47.0231,12517.4422,0.0225,Transportation and material moving,"ambulance drivers and attendants, except emergency medical technicians",0.0004
+1106,49.6590,71.7821,0.0972,72.8366,12302.8041,0.0028,Computer and mathematical,computer network architects,0.0017
+5920,45.7893,39.6641,0.8762,63.5373,12218.1998,0.0422,Office and administrative support,statistical assistants,0.0008
+8420,26.6212,-45.5651,0.4024,-13.9418,12150.0195,-0.0022,Production,"textile winding, twisting, and drawing out machine setters, operators, and tenders",0.0002
+7610,18.5193,-186.4110,0.0570,-199.7938,11453.7218,0.0003,"Installation, maintenance, and repair","helpers--installation, maintenance, and repair workers",0.0023
+8750,24.4239,-29.5208,0.0939,-25.1642,11450.5325,-0.0039,Production,jewelers and precious stone and metal workers,0.0002
+3000,24.8467,-68.3025,-0.3261,-56.8348,11425.5154,0.0092,Healthcare practitioners and technical,chiropractors,0.0004
+2015,31.3909,-108.1569,-0.8671,-90.7182,11288.7339,0.0226,Community and social service,probation officers and correctional treatment specialists,-0.0001
+4830,39.9891,-15.5897,-0.0333,-11.2804,11263.7593,0.0002,Sales and related,travel agents,-0.0001
+1840,47.9641,-23.9977,1.1641,-15.4727,10958.9253,-0.0011,"Life, physical, and social science",urban and regional planners,-0.0004
+1420,48.9968,-100.9741,0.5798,-82.4567,10843.5303,-0.0190,Architecture and engineering,environmental engineers,-0.0019
+7160,13.7517,48.0312,-0.3709,38.9533,10794.4619,-0.0090,"Installation, maintenance, and repair",automotive glass installers and repairers,-0.0009
+6720,18.2531,-48.4412,-0.9765,-41.1764,10405.7912,0.0084,Construction and extraction,hazardous materials removal workers,0.0005
+7360,18.9335,115.1245,-1.3991,125.9621,10335.7610,-0.0577,"Installation, maintenance, and repair",millwrights,-0.0013
+5500,43.2655,-40.1649,0.1517,-48.3459,10279.4521,0.0005,Office and administrative support,cargo and freight agents,-0.0005
+3700,23.6590,-36.1505,-0.7996,-29.0590,10221.7905,0.0077,Protective service,first-line supervisors of correctional officers,0.0002
+2810,46.1552,170.2551,0.5074,161.8534,9879.8015,0.0262,"Arts, design, entertainment, sports, and media","news analysts, reporters and correspondents",0.0026
+9560,22.4901,97.4614,0.8374,91.4695,9770.1741,0.0239,Transportation and material moving,"conveyor operators and tenders, and hoist and winch operators",-0.0007
+7100,33.8568,72.4736,-0.0390,70.4119,9669.5575,-0.0139,"Installation, maintenance, and repair","electrical and electronics repairers, transportation equipment, and industrial and utility",0.0003
+7300,17.4684,47.6720,-1.2221,82.0419,9646.4422,-0.0303,"Installation, maintenance, and repair",control and valve installers and repairers,-0.0006
+5250,43.1844,-100.4653,-0.0502,-103.7004,9533.8296,0.0016,Office and administrative support,"eligibility interviewers, government programs",-0.0011
+8550,24.8980,134.5185,-0.5871,120.8866,9276.4163,-0.0206,Production,"miscellaneous woodworkers, including model makers and patternmakers",-0.0006
+9300,17.6063,22.1184,0.5567,30.5269,9165.5329,0.0124,Transportation and material moving,"sailors and marine oilers, and ship engineers",-0.0003
+9510,20.8180,-372.8521,0.1260,-374.2597,9029.1964,-0.0135,Transportation and material moving,crane and tower operators,0.0030
+9410,36.1413,43.2359,-0.2627,25.1146,8663.1710,-0.0017,Transportation and material moving,transportation inspectors,0.0002
+8130,30.7413,-187.3138,-0.5078,-157.2113,8526.2779,0.0216,Production,tool and die makers,-0.0001
+4930,46.2785,-86.5273,-0.5858,-85.0637,8489.8044,0.0116,Sales and related,sales engineers,-0.0011
+3940,18.9391,-67.4493,-0.3066,-100.3657,8417.1317,0.0082,Protective service,crossing guards,0.0006
+6100,17.4867,34.9180,-0.7174,16.1345,8416.2679,-0.0062,"Farming, fishing, and forestry",fishing and hunting workers,-0.0004
+100,40.7246,50.8388,0.0230,50.3866,8008.9377,0.0003,Management,administrative services managers,0.0004
+7040,21.3633,118.3430,-0.1146,120.0638,7980.4361,-0.0129,"Installation, maintenance, and repair","electric motor, power tool, and related repairers",-0.0008
+3610,22.3116,82.2863,-2.0536,88.7441,7718.1563,-0.0430,Healthcare support,occupational therapy assistants and aides,-0.0005
+3010,18.6388,-4.9126,-1.4216,3.4362,7676.3211,-0.0043,Healthcare practitioners and technical,dentists,0.0000
+7120,33.6998,80.4483,0.0915,58.6399,7644.0213,0.0015,"Installation, maintenance, and repair",electronic home entertainment equipment installers and repairers,0.0002
+8460,29.2326,-118.2223,0.4984,-100.8313,7400.9175,-0.0362,Production,"miscellaneous textile, apparel, and furnishings workers except upholsterers",0.0001
+7540,14.9030,15.7404,-1.6315,27.8406,7393.2763,-0.0089,"Installation, maintenance, and repair",locksmiths and safe repairers,-0.0002
+1440,45.7004,-119.5811,0.0108,-118.1516,7154.7444,-0.0004,Architecture and engineering,marine engineers and naval architects,-0.0012
+7850,31.1926,8.6492,-0.0257,20.4993,6934.0288,0.0028,Production,food cooking machine operators and tenders,0.0000
+4465,25.3090,-128.0975,-1.3044,-145.0134,6925.2870,0.0416,Personal care and service,"morticians, undertakers, and funeral directors",0.0004
+7560,14.7046,26.4429,-1.2674,23.0925,6861.3740,-0.0094,"Installation, maintenance, and repair",riggers,-0.0003
+8310,14.8122,-186.4722,-0.1420,-180.5512,6819.3962,0.0056,Production,"pressers, textile, garment, and related materials",0.0018
+3945,21.4670,-43.7738,-1.2506,-60.4220,6657.7400,0.0166,Protective service,transportation security screeners,0.0002
+6460,11.2304,-102.3715,-0.5670,-100.1415,6459.3038,0.0116,Construction and extraction,plasterers and stucco masons,0.0011
+3210,27.6568,69.6350,-0.5547,63.4439,6236.2867,-0.0068,Healthcare practitioners and technical,recreational therapists,-0.0001
+4460,14.6747,30.2558,-2.5392,24.5363,6215.4727,-0.0112,Personal care and service,embalmers and funeral attendants,-0.0003
+7430,31.7945,28.9107,-1.0121,21.5047,6031.8149,-0.0042,"Installation, maintenance, and repair",precision instrument and equipment repairers,0.0000
+137,49.9727,19.5327,0.3046,40.6120,5745.7053,0.0025,Management,training and development managers,0.0002
+8330,15.9968,-22.6239,-0.3280,16.4493,5696.9493,-0.0009,Production,shoe and leather workers,0.0001
+7830,25.9202,-19.2290,1.0602,0.1331,4754.8205,0.0000,Production,"food and tobacco roasting, baking, and drying machine operators and tenders",0.0000
+8040,22.3550,-19.9214,-0.2334,-2.1004,4478.5235,0.0002,Production,"metal furnace operators, tenders, pourers, and casters",0.0001
+2840,58.0078,-48.3315,2.2516,-41.1560,4358.2182,-0.0158,"Arts, design, entertainment, sports, and media",technical writers,-0.0005
+930,43.0128,85.0668,0.4161,85.8092,4269.7722,0.0048,Business and financial operations,"tax examiners and collectors, and revenue agents",0.0005
+5010,40.4523,49.9409,0.3356,54.1970,4215.7601,0.0026,Office and administrative support,"switchboard operators, including answering service",0.0002
+9650,23.3346,89.9280,-0.0936,80.5069,4118.8681,-0.0009,Transportation and material moving,pumping station operators,-0.0002
+1710,43.5250,-142.4835,2.4372,-170.8027,4105.3298,-0.0543,"Life, physical, and social science",atmospheric and space scientists,-0.0007
+1600,40.4754,26.7029,0.1206,51.7193,4076.3161,0.0006,"Life, physical, and social science",agricultural and food scientists,0.0001
+8600,26.5266,179.3279,-0.5068,180.1813,3993.7658,-0.0101,Production,"power plant operators, distributors, and dispatchers",-0.0003
+6830,15.6431,165.7591,-0.5754,187.6317,3907.4174,-0.0138,Construction and extraction,"explosives workers, ordnance handling experts, and blasters",-0.0009
+3140,33.3095,-35.3992,-0.9689,-2.9018,3844.2789,0.0003,Healthcare practitioners and technical,audiologists,-0.0000
+7350,21.4898,107.8721,-1.5562,95.7098,3834.3247,-0.0168,"Installation, maintenance, and repair","maintenance workers, machinery",-0.0004
+8940,13.7294,-68.6333,-0.3898,-67.3991,3622.9878,0.0030,Production,tire builders,0.0004
+3900,26.3260,-49.7565,-0.5783,-32.7413,3580.7624,0.0022,Protective service,animal control workers,0.0001
+5230,41.8444,-46.6571,-0.2605,-31.5323,2875.8643,0.0008,Office and administrative support,"credit authorizers, checkers, and clerks",-0.0001
+8720,22.8588,121.0543,0.0361,125.4635,2738.0168,0.0005,Production,"extruding, forming, pressing, and compacting machine setters, operators, and tenders",-0.0002
+3040,22.0578,80.2949,-1.5952,100.7723,2619.3050,-0.0130,Healthcare practitioners and technical,optometrists,-0.0002
+900,43.5125,-44.5784,-1.9332,-34.2310,2455.7179,0.0052,Business and financial operations,financial examiners,-0.0001
+5020,37.3912,-64.4433,-0.2476,-65.8115,2319.7046,0.0012,Office and administrative support,telephone operators,-0.0001
+9200,21.4904,49.5814,-0.8408,34.3836,2157.4334,-0.0020,Transportation and material moving,locomotive engineers and operators,-0.0001
+8930,19.3767,70.6027,1.5199,96.3416,2052.5782,0.0095,Production,"paper goods machine setters, operators, and tenders",-0.0002
+9260,24.6700,122.0028,0.5731,104.0147,1717.3490,0.0033,Transportation and material moving,"subway, streetcar, and other rail transportation workers",-0.0001
+5530,31.6596,-45.1254,0.5927,-78.6778,1552.9483,-0.0023,Office and administrative support,"meter readers, utilities",-0.0000
+8450,15.4580,122.0080,-0.8911,112.4770,1503.8480,-0.0048,Production,upholsterers,-0.0003
+7730,24.7867,181.5089,0.4244,266.8319,1251.2337,0.0045,Production,engine and other machine assemblers,-0.0001
+3750,30.8555,178.9720,-1.4883,200.3729,1185.0315,-0.0112,Protective service,fire inspectors,0.0000
+1520,42.4898,284.6011,-1.3753,297.4478,797.7007,-0.0104,Architecture and engineering,"petroleum, mining and geological engineers, including mining safety engineers",0.0003
+3710,31.2198,212.9217,-0.7444,219.9179,701.3515,-0.0036,Protective service,first-line supervisors of police and detectives,0.0000
+2440,34.8065,202.6151,0.6606,206.8049,449.8214,0.0020,Educational instruction and library,library technicians,0.0000

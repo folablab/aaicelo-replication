@@ -1,0 +1,52 @@
+{
+  "occupation": "Tax Preparers",
+  "onet_code": "13-2082.00",
+  "task_id": 7359,
+  "task_text": "Prepare or assist in preparing simple to complex tax returns for individuals or small businesses.",
+  "num_subtasks": 6,
+  "task_decomposition": [
+    {
+      "subtask_id": 1,
+      "subtask": "Gather and review client financial documents, records, and prior tax returns to identify all relevant income, deductions, and credits.",
+      "activity_type": "information_gathering",
+      "pct_of_total_time": 20,
+      "sequence_position": 1
+    },
+    {
+      "subtask_id": 2,
+      "subtask": "Analyze and categorize financial information, calculate taxable income, determine applicable deductions and credits, and identify tax implications.",
+      "activity_type": "information_processing",
+      "pct_of_total_time": 25,
+      "sequence_position": 2
+    },
+    {
+      "subtask_id": 3,
+      "subtask": "Enter financial data and tax information into tax preparation software or forms, ensuring accuracy and compliance with current tax codes.",
+      "activity_type": "administrative_procedural",
+      "pct_of_total_time": 20,
+      "sequence_position": 3
+    },
+    {
+      "subtask_id": 4,
+      "subtask": "Review completed tax return for mathematical accuracy, completeness, and compliance with tax regulations before finalizing.",
+      "activity_type": "information_processing",
+      "pct_of_total_time": 15,
+      "sequence_position": 4
+    },
+    {
+      "subtask_id": 5,
+      "subtask": "Communicate with clients to clarify missing information, explain tax positions, and discuss filing options or tax-saving strategies.",
+      "activity_type": "communication_coordination",
+      "pct_of_total_time": 12,
+      "sequence_position": 5
+    },
+    {
+      "subtask_id": 6,
+      "subtask": "Make final determinations on tax filing positions, deduction eligibility, and return accuracy, then authorize the return for submission.",
+      "activity_type": "decision_judgment",
+      "pct_of_total_time": 8,
+      "sequence_position": 6
+    }
+  ],
+  "time_share_sum_check": 100
+}

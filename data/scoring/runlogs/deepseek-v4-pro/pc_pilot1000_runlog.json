@@ -1,0 +1,31 @@
+{
+  "model_key": "deepseek-v4-pro",
+  "model_id": "deepseek/deepseek-v4-pro",
+  "batch": "robustness/batches/pc_pilot1000.jsonl",
+  "prompt": "c",
+  "mode": "production",
+  "requested": 1000,
+  "succeeded": 1000,
+  "failed": 0,
+  "previously_done": 0,
+  "prompt_tokens": 3490036,
+  "completion_tokens": 3985038,
+  "estimated_cost_usd": 9.1277,
+  "providers": {
+    "DeepInfra": 57,
+    "Alibaba": 97,
+    "Ionstream": 158,
+    "Novita": 132,
+    "GMICloud": 401,
+    "AtlasCloud": 52,
+    "Cloudflare": 56,
+    "Parasail": 19,
+    "CoreWeave": 28
+  },
+  "elapsed_seconds": 4519.0,
+  "concurrency": 16,
+  "json_mode": true,
+  "max_tokens": 10000,
+  "seed": 12345,
+  "temperature": 0
+}

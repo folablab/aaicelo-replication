@@ -1,0 +1,7 @@
+rater,method,measure,n,retest_spearman,retest_pearson,exact_same_share
+Gemini 3.1 Flash-Lite,whole task,composite s4,1000,0.9930644878562952,0.9924025685874275,0.79
+Gemini 3.1 Flash-Lite,whole task,change s1 to s4,1000,0.9889904646824703,0.9871229231723746,0.8
+Gemini 3.1 Flash-Lite,whole task,time saved (feasible) s4,1000,0.9938387647848534,0.9937378964136021,0.86
+Gemini 3.1 Flash-Lite,whole task,time saved (feasible) change s1 to s4,1000,0.988906290621805,0.9885944175115706,0.864
+Gemini 3.1 Flash-Lite,subtask-based,time saved (feasible) s4,1000,0.9730789426187536,0.9754417814050775,0.558
+Gemini 3.1 Flash-Lite,subtask-based,time saved (feasible) change s1 to s4,1000,0.9550375554993581,0.9597140038792443,0.552
