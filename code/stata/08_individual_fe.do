@@ -6,7 +6,7 @@ The individual-level regressions are estimated on the linked monthly CPS records
 package therefore ships the saved Stata estimates of those regressions (data/individual_fe/estimates/,
 written by the estimation do-file in code/stata/individual_fe_source/) and this script reads them.
 
-Regressions (reghdfe; individual and month fixed effects; controls for age, age squared, sex, race,
+Regressions (reghdfe; occupation and month fixed effects; controls for age, age squared, sex, race,
 education, and region; CPS person weights; standard errors clustered by occupation), for the windows
 W2023 (January 2023 to June 2026) and W2021 (October 2021 to June 2026):
     fe_<W>_baseline_<y>.ster          pooled step            (coef step)

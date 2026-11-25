@@ -230,7 +230,7 @@ def ife_rows(window):
     return rows
 body = ["\\multicolumn{5}{@{}l}{\\emph{January 2023 to June 2026}} \\\\"] + ife_rows("W2023") + [rule(4), "\\multicolumn{5}{@{}l}{\\emph{October 2021 to June 2026}} \\\\"] + ife_rows("W2021")
 table("tabC3-fe-windows-B.tex", "Fixed-effects estimates over two windows: individual level", "tab:fe-main-individual", IY, body,
-      "Individual-level regressions on the linked monthly CPS records of each worker, with individual and month fixed effects, controls for age, age squared, sex, race, "
+      "Individual-level regressions on the linked monthly CPS records of each worker, with occupation and month fixed effects, controls for age, age squared, sex, race, "
       "education, and region, CPS person weights, and standard errors clustered by occupation in parentheses. The exposure score of a month is the score of the stage prevailing "
       "in that month (step) or the interpolated score, standardized within the window. Employment and part-time status are multiplied by 100; hours are in hours; earnings are "
       "log real hourly earnings times 100. The era split is at January 2025. " + STARS)
